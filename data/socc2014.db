@@ -1,0 +1,86 @@
+Automating Distributed Partial Aggregation
+Chang Liu, Jiaxing Zhang, Hucheng Zhou, Sean McDirmid, Zhenyu Guo, Thomas Moscibroda
+
+Reservation-based Scheduling: If You're Late Don't Blame Us!
+Carlo Curino, Djellel E. Difallah, Chris Douglas, Subru Krishnan, Raghu Ramakrishnan, Sriram Rao
+
+Transparent, Live Migration of a Software-Defined Network
+Soudeh Ghorbani, Cole Schlesinger, Matthew Monaco, Eric Keller, Matthew Caesar, Jennifer Rexford, David Walker
+
+GentleRain: Cheap and Scalable Causal Consistency with Physical Clocks
+Jiaqing Du, Călin Iorgulescu, Amitabha Roy, Willy Zwaenepoel
+
+Exploiting iterative-ness for parallel ML computations
+Henggang Cui, Alexey Tumanov, Jinliang Wei, Lianghong Xu, Wei Dai, Jesse Haber-Kucharsky, Qirong Ho, Gregory R. Ganger, Phillip B. Gibbons, Garth A. Gibson, Eric P. Xing
+
+Tachyon: Reliable, Memory Speed Storage for Cluster Computing Frameworks
+Haoyuan Li, Ali Ghodsi, Matei Zaharia, Scott Shenker, Ion Stoica
+
+What Bugs Live in the Cloud? A Study of 3000+ Issues in Cloud Systems
+Haryadi S. Gunawi, Mingzhe Hao, Tanakorn Leesatapornwongsa, Tiratat Patana-anake, Thanh Do, Jeffry Adityatama, Kurnia J. Eliazar, Agung Laksono, Jeffrey F. Lukman, Vincentius Martin, Anang D. Satria
+
+PerfScope: Practical Online Server Performance Bug Inference in Production Cloud Computing Infrastructures
+Daniel J. Dean, Hiep Nguyen, Xiaohui Gu, Hui Zhang, Junghwan Rhee, Nipun Arora, Geoff Jiang
+
+Tales of the Tail: Hardware, OS, and Application-level Sources of Tail Latency
+Jialin Li, Naveen Kr. Sharma, Dan R. K. Ports, Steven D. Gribble
+
+On the Control Plane of a Self-service Cloud Platform
+Shakeel Butt, Vinod Ganapathy, Abhinav Srivastava
+
+DIMMer: A case for turning off DIMMs in clouds
+Dongli Zhang, Moussa Ehsan, Michael Ferdman, Radu Sion
+
+Hybris: Robust Hybrid Cloud Storage
+Dan Dobre, Paolo Viotti, Marko Vukolić
+
+The Case for Drill-Ready Cloud Computing
+Tanakorn Leesatapornwongsa, Haryadi S. Gunawi
+
+Merlin: Application- and Platform-aware Resource Allocation in Consolidated Server Systems
+Priyanka Tembey, Ada Gavrilovska, Karsten Schwan
+
+DaRPC: Data Center RPC
+Patrick Stuedi, Animesh Trivedi, Bernard Metzler, Jonas Pfefferle
+
+Adaptive Stream Processing using Dynamic Batch Sizing
+Tathagata Das, Yuan Zhong, Ion Stoica, Scott Shenker
+
+ATAC: Ambient Temperature-Aware Capping for Power Efficient Datacenters
+Sungkap Yeo, Mohammad M. Hossain, Jen-Cheng Huang, Hsien-Hsin S. Lee
+
+Connected Components in MapReduce and Beyond
+Raimondas Kiveris, Silvio Lattanzi, Vahab Mirrokni, Vibhor Rastogi, Sergei Vassilvitskii
+
+Vanguard: Increasing Server Efficiency via Workload Isolation in the Storage I/O Path
+Yannis Sfakianakis, Stelios Mavridis, Anastasios Papagiannis, Spyridon Papageorgiou, Markos Fountoulakis, Manolis Marazakis, Angelos Bilas
+
+Long-term SLOs for reclaimed cloud computing resources
+Marcus Carvalho, Walfredo Cirne, Francisco Brasileiro, John Wilkes
+
+Vagabond: Dynamic Network Endpoint Reconfiguration in Virtualized Environments
+Kallol Dey, Debadatta Mishra, Purushottam Kulkarni
+
+Paxos Quorum Leases: Fast Reads Without Sacrificing Writes
+Iulian Moraru, David G. Andersen, Michael Kaminsky
+
+C-Hint: An Effective and Reliable Cache Management for RDMA-Accelerated Key-Value Stores
+Yandong Wang, Xiaoqiao Meng, Li Zhang, Jian Tan
+
+Distributed Autonomous Virtual Resource Management in Datacenters Using Finite-Markov Decision Process
+Liuhua Chen, Haiying Shen, Karan Sapra
+
+ReproLite: A Lightweight Tool to Quickly Reproduce Hard System Bugs
+Kaituo Li, Pallavi Joshi, Aarti Gupta, Malay K. Ganai
+
+Wrangler: Predictable and Faster Jobs using Fewer Resources
+Neeraja J. Yadwadkar, Ganesh Ananthanarayanan, Randy Katz
+
+vPipe: Piped I/O Offloading for Efficient Data Movement in Virtualized Clouds
+Sahan Gamage, Cong Xu, Ramana Rao Kompella, Dongyan Xu
+
+Dynamic Performance Profiling of Cloud Caches
+Trausti Saemundsson, Hjortur Bjornsson, Gregory Chockler, Ymir Vigfusson
+
+PriorityMeister: Tail Latency QoS for Shared Networked Storage
+Timothy Zhu, Alexey Tumanov, Michael A. Kozuch, Mor Harchol-Balter, Gregory R. Ganger

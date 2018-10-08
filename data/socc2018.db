@@ -1,0 +1,116 @@
+Orpheus: Efficient Distributed Machine Learning via System and Algorithm Co-design
+Pengtao Xie, Jin Kyu Kim, Qirong Ho, Yaoliang Yu, Eric Xing
+
+Dynamic and Decentralized Global Analytics via Machine Learning
+Hao Wang, Di Niu, Baochun Li
+
+Continuum: A Platform for Cost-Aware, Low-Latency Continual Learning
+Huangshi Tian, Minchen Yu, Wei Wang
+
+Parameter Hub: a Rack-Scale Parameter Server for Distributed Deep Neural Network Training
+Liang Luo, Jacob Nelson, Luis Ceze, Amar Phanishayee, Arvind Krishnamurthy
+
+Bolt-On Global Consistency for the Cloud
+Zhe Wu, Edward Wijaya, Muhammed Uluyol, Harsha V. Madhyastha
+
+SDPaxos: Building Efficient Semi-Decentralized Geo-replicated State Machines
+Hanyu Zhao, Quanlu Zhang, Zhi Yang, Ming Wu, Yafei Dai
+
+Early Scheduling in Parallel State Machine Replication
+Eduardo Alchieri, Fernando Dotti, Fernando Pedone
+
+Uncertainty Propagation in Data Processing Systems
+Ioannis Manousakis, Íñigo Goiri, Ricardo Bianchini, Sandro Rigo, Thu D. Nguyen
+
+Elasecutor: Elastic Executor Scheduling in Data Analytics Systems
+Libin Liu, Hong Xu
+
+Stratus: cost-aware container scheduling in the public cloud
+Andrew Chung, Jun Woo Park, Gregory R. Ganger
+
+Kairos: Preemptive Data Center Scheduling Without Runtime Estimates
+Pamela Delgado, Diego Didona, Florin Dinu, Willy Zwaenepoel
+
+Overload Control for Scaling WeChat Microservices
+Hao Zhou, Ming Chen, Qian Lin, Yong Wang, Xiaobin She, Sifan Liu, Rui Gu, Beng Chin Ooi, Junfeng Yang
+
+Mutant: Balancing Storage Cost and Latency in LSM-Tree Data Stores
+Hobin Yoon, Juncheng Yang, Sveinn Fannar Kristjansson, Steinn E. Sigurdarson, Ymir Vigfusson, Ada Gavrilovska
+
+Wharf: Sharing Docker Images in a Distributed File System
+Chao Zheng, Lukas Rupprecht, Vasily Tarasov, Douglas Thain, Mohamed Mohamed, Dimitrios Skourtis, Amit S. Warke, Dean Hildebrand
+
+Netco: Cache and I/O Management for Analytics over Disaggregated Stores
+Virajith Jalaparti, Chris Douglas, Mainak Ghosh, Ashvin Agrawal, Avrilia Floratou, Srikanth Kandula, Ishai Menache, Joseph Seffi Naor, Sriram Rao
+
+Unikernels as Processes
+Dan Williams, Ricardo Koller, Martin Lucina, Nikhil Prakash
+
+libVNF: Building Virtual Network Functions Made Easy
+Priyanka Naik, Akash Kanase, Trishal Patel, Mythili Vutukuru
+
+RoGUE: RDMA over Generic Unconverged Ethernet
+Yanfang Le, Brent Stephens, Arjun Singhvi, Aditya Akella, Michael M. Swift
+
+VIP: Virtual Performance-State for Efficient Power Management of Virtual Machines
+Ki-Dong Kang, Mohammad Alian, Daehoon Kim, Jaehyuk Huh, Nam Sung Kim
+
+Henge: Intent-driven Multi-Tenant Stream Processing
+Faria Kalim, Le Xu, Sharanya Bathey, Richa Meherwal, Indranil Gupta
+
+Sprocket: A Serverless Video Processing Framework
+Lixiang Ao, Liz Izhikevich, Geoffrey M. Voelker, George Porter
+
+RIOS: Runtime Integrated Optimizer for Spark
+Youfu Li, Mingda Li, Ling Ding, Matteo Interlandi
+
+ScootR: Scaling R Dataframes on Dataflow Systems
+Andreas Kunft, Lukas Stadler, Daniele Bonetta, Cosmin Basca, Jens Meiners, Sebastian Breß, Tilmann Rabl, Juan Fumero, Volker Markl
+
+GraPU: Accelerate Streaming Graph Analysis through Preprocessing Buffered Updates
+Feng Sheng, Qiang Cao, Haoran Cai, Jie Yao, Changsheng Xie
+
+DScope: Detecting Real-World Data Corruption Hang Bugs in Cloud Server Systems
+Ting Dai, Jingzhu He, Xiaohui Gu, Shan Lu, Peipei Wang
+
+Weighted Sampling of Execution Traces: Capturing More Needles and Less Hay
+Pedro Las-Casas, Jonathan Mace, Dorgival Guedes, Rodrigo Fonseca
+
+Debugging Distributed Systems with Why-Across-Time Provenance
+Michael Whittaker, Cristina Teodoropol, Peter Alvaro, Joseph M. Hellerstein
+
+The Elasticity and Plasticity in Semi-Containerized Co-locating Cloud Workload: a View from Alibaba Trace
+Qixiao Liu, Zhibin Yu
+
+I Heard It through the Firewall: Exploiting Cloud Management Services as an Information Leakage Channel
+Hyunwook Baek, Eric Eide, Robert Ricci, Jacobus Van der Merwe
+
+DC-DRF: Adaptive Multi-Resource Sharing at Public Cloud Scale
+Ian A. Kash, Greg O'Shea, Stavros Volos
+
+Fast and Accurate Load Balancing for Geo-Distributed Storage Systems
+Kirill L. Bogdanov, Waleed Reda, Gerald Q. Maguire Jr., Dejan Kostić, Marco Canini
+
+IONN: Incremental Offloading of Neural Network Computations from Mobile Devices to Edge Servers
+Hyuk-Jin Jeong, Hyeon-Jae Lee, Chang Hyun Shin, Soo-Mook Moon
+
+Multi-Query Optimization in Wide-Area Streaming Analytics
+Albert Jonathan, Abhishek Chandra, Jon Weissman
+
+ApproxJoin: Approximate Distributed Joins
+Do Le Quoc, Istemi Ekin Akkus, Pramod Bhatotia, Spyros Blanas, Ruichuan Chen, Christof Fetzer, Thorsten Strufe
+
+Pay One, Get Hundreds for Free: Reducing Cloud Costs through Shared Query Execution
+Renato Marroquín, Ingo Müller, Darko Makreshanski, Gustavo Alonso
+
+Cloud Index Tracking: Enabling Predictable Costs in Cloud Spot Markets
+Supreeth Shastri, David Irwin
+
+Cascade Mapping: Optimizing Memory Efficiency for Flash-based Key-value Caching
+Kefei Wang, Feng Chen
+
+SifrDB: A Unified Solution for Write-Optimized Key-Value Stores in Large Datacenter
+Fei Mei, Qiang Cao, Hong Jiang, Jingjun Li
+
+An Efficient Memory-Mapped Key-Value Store for Flash Storage
+Anastasios Papagiannis, Giorgos Saloustros, Pilar González-Férez, Angelos Bilas

@@ -1,0 +1,143 @@
+FSP: towards flexible synchronous parallel framework for expectation-maximization based algorithms on cloud
+Zhigang Wang, Lixin Gao, Yu Gu, Yubin Bao, Ge Yu
+
+Trustable virtual machine scheduling in a cloud
+Fabien Hermenier, Ludovic Henrio
+
+Search lookaside buffer: efficient caching for index data structures
+Xingbo Wu, Fan Ni, Song Jiang
+
+Architectural implications on the performance and cost of graph analytics systems
+Qizhen Zhang, Hongzhi Chen, Da Yan, James Cheng, Boon Thau Loo, Purushotham Bangalore
+
+Incentivizing self-capping to increase cloud utilization
+Mohammad Shahrad, Cristian Klein, Liang Zheng, Mung Chiang, Erik Elmroth, David Wentzlaff
+
+Mithril: mining sporadic associations for cache prefetching
+Juncheng Yang, Reza Karimi, Trausti Sæmundsson, Avani Wildani, Ymir Vigfusson
+
+GLoop: an event-driven runtime for consolidating GPGPU applications
+Yusuke Suzuki, Hiroshi Yamada, Shinpei Kato, Kenji Kono
+
+APUS: fast and scalable paxos on RDMA
+Cheng Wang, Jianyu Jiang, Xusheng Chen, Ning Yi, Heming Cui
+
+No data left behind: real-time insights from a complex data ecosystem
+Manos Karpathiotakis, Avrilia Floratou, Fatma Özcan, Anastasia Ailamaki
+
+Remote memory in the age of fast networks
+Marcos K. Aguilera, Nadav Amit, Irina Calciu, Xavier Deguillard, Jayneel Gandhi, Pratap Subrahmanyam, Lalith Suresh, Kiran Tati, Rajesh Venkatasubramanian, Michael Wei
+
+CapNet: security and least authority in a capability-enabled cloud
+Anton Burtsev, David Johnson, Josh Kunz, Eric Eide, Jacobus Van der Merwe
+
+LSM-tree managed storage for large-scale key-value store
+Fei Mei, Qiang Cao, Hong Jiang, Lei Tian Tintri
+
+HyperNF: building a high performance, high utilization and fair NFV platform
+Kenichi Yasukata, Felipe Huici, Vincenzo Maffione, Giuseppe Lettieri, Michio Honda
+
+Workload analysis and caching strategies for search advertising systems
+Conglong Li, David G. Andersen, Qiang Fu, Sameh Elnikety, Yuxiong He
+
+Prism: a proxy architecture for datacenter networks
+Yutaro Hayakawa, Lars Eggert, Michio Honda, Douglas Santry
+
+Towards automatic parameter tuning of stream processing systems
+Muhammad Bilal, Marco Canini
+
+STYX: a trusted and accelerated hierarchical SSL key management and distribution system for cloud based CDN application
+Changzheng Wei, Jian Li, Weigang Li, Ping Yu, Haibing Guan
+
+QFrag: distributed graph search via subgraph isomorphism
+Marco Serafini, Gianmarco De Francisci Morales, Georgos Siganos
+
+A robust partitioning scheme for ad-hoc query workloads
+Anil Shanbhag, Alekh Jindal, Samuel Madden, Jorge Quiane, Aaron J. Elmore
+
+DLSH: a distribution-aware LSH scheme for approximate nearest neighbor query in cloud computing
+Yuanyuan Sun, Yu Hua, Xue Liu, Shunde Cao, Pengfei Zuo
+
+SLO-aware colocation of data center tasks based on instantaneous processor requirements
+Pawel Janus, Krzysztof Rzadca
+
+Preserving I/O prioritization in virtualized OSes
+Kun Suo, Yong Zhao, Jia Rao, Luwei Cheng, Xiaobo Zhou, Francis C. M. Lau
+
+A policy-based system for dynamic scaling of virtual machine memory reservations
+Rebecca Smith, Scott Rixner
+
+PBSE: a robust path-based speculative execution for degraded-network tail tolerance in data-parallel frameworks
+Riza O. Suminto, Cesar A. Stuardo, Alexandra Clark, Huan Ke, Tanakorn Leesatapornwongsa, Bo Fu, Daniar H. Kurniawan, Vincentius Martin, Maheswara Rao G. Uma, Haryadi S. Gunawi
+
+Polygravity: traffic usage accountability via coarse-grained measurements in multi-tenant data centers
+Hyunwook Baek, Cheng Jin, Guofei Jiang, Cristian Lumezanu, Jacobus Van der Merwe, Ning Xia, Qiang Xu
+
+Distributed shared persistent memory
+Yizhou Shan, Shin-Yeh Tsai, Yiying Zhang
+
+BestConfig: tapping the performance potential of systems via automatic configuration tuning
+Yuqing Zhu, Jianxun Liu, Mengying Guo, Yungang Bao, Wenlong Ma, Zhuoyue Liu, Kunpeng Song, Yingchun Yang
+
+A machine learning approach to live migration modeling
+Changyeon Jo, Youngsu Cho, Bernhard Egger
+
+Latency reduction and load balancing in coded storage systems
+Yaochen Hu, Yushi Wang, Bang Liu, Di Niu, Cheng Huang
+
+On-demand virtualization for live migration in bare metal cloud
+Jaeseong Im, Jongyul Kim, Jonguk Kim, Seongwook Jin, Seungryoul Maeng
+
+SLAQ: quality-driven scheduling for distributed machine learning
+Haoyu Zhang, Logan Stafman, Andrew Or, Michael J. Freedman
+
+Practical whole-system provenance capture
+Thomas Pasquier, Xueyuan Han, Mark Goldstein, Thomas Moyer, David Eyers, Margo Seltzer, Jean Bacon
+
+Processing Java UDFs in a C++ environment
+Viktor Rosenfeld, Rene Mueller, Pinar Tözün, Fatma Özcan
+
+An experimental comparison of complex object implementations for big data systems
+Sourav Sikdar, Kia Teymourian, Chris Jermaine
+
+Occupy the cloud: distributed computing for the 99%
+Eric Jonas, Qifan Pu, Shivaram Venkataraman, Ion Stoica, Benjamin Recht
+
+Selecting the best VM across multiple public clouds: a data-driven performance modeling approach
+Neeraja J. Yadwadkar, Bharath Hariharan, Joseph E. Gonzalez, Burton Smith, Randy H. Katz
+
+AidOps: a data-driven provisioning of high-availability services in cloud
+Diego Lugones, Jordi Arjona Aroca, Yue Jin, Alessandra Sala, Volker Hilt
+
+Secure data types: a simple abstraction for confidentiality-preserving data analytics
+Savvas Savvides, Julian James Stephen, Masoud Saeida Ardekani, Vinaitheerthan Sundaram, Patrick Eugster
+
+HotSpot: automated server hopping in cloud spot markets
+Supreeth Shastri, David Irwin
+
+UNO: uniflying host and smart NIC offload for flexible packet processing
+Yanfang Le, Hyunseok Chang, Sarit Mukherjee, Limin Wang, Aditya Akella, Michael M. Swift, T. V. Lakshman
+
+Automated debugging in data-intensive scalable computing
+Muhammad Ali Gulzar, Matteo Interlandi, Xueyuan Han, Mingda Li, Tyson Condie, Miryung Kim
+
+Sketches of space: ownership accounting for shared storage
+Jake Wires, Pradeep Ganesan, Andrew Warfield
+
+A scalable distributed spatial index for the internet-of-things
+Anand Padmanabha Iyer, Ion Stoica
+
+ALOHA-KV: high performance read-only and write-only distributed transactions
+Hua Fan, Wojciech Golab, Charles B. Morrey, III
+
+Analysis of TPC-DS: the first standard benchmark for SQL-based big data systems
+Meikel Poess, Tilmann Rabl, Hans-Arno Jacobsen
+
+Optimized on-demand data streaming from sensor nodes
+Jonas Traub, Sebastian Breß, Tilmann Rabl, Asterios Katsifodimos, Volker Markl
+
+WorkloadCompactor: reducing datacenter cost while providing tail latency SLO guarantees
+Timothy Zhu, Michael A. Kozuch, Mor Harchol-Balter
+
+Distributed resource management across process boundaries
+Lalith Suresh, Peter Bodik, Ishai Menache, Marco Canini, Florin Ciucu

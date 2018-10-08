@@ -1,0 +1,113 @@
+Why Does the Cloud Stop Computing?: Lessons from Hundreds of Service Outages
+Haryadi S. Gunawi, Mingzhe Hao, Riza O. Suminto, Agung Laksono, Anang D. Satria, Jeffry Adityatama, Kurnia J. Eliazar
+
+Automating Failure Testing Research at Internet Scale
+Peter Alvaro, Kolton Andrus, Chris Sanden, Casey Rosenthal, Ali Basiri, Lorin Hochstein
+
+Characterizing Private Clouds: A Large-Scale Empirical Analysis of Enterprise Clusters
+Ignacio Cano, Srinivas Aiyar, Arvind Krishnamurthy
+
+Availability Knob: Flexible User-Defined Availability in the Cloud
+Mohammad Shahrad, David Wentzlaff
+
+Optasia: A Relational Platform for Efficient Large-Scale Video Analytics
+Yao Lu, Aakanksha Chowdhery, Srikanth Kandula
+
+A Fault-Tolerant Framework for Asynchronous Iterative Computations in Cloud Environments
+Zhigang Wang, Lixin Gao, Yu Gu, Yubin Bao, Ge Yu
+
+Ako: Decentralised Deep Learning with Partial Gradient Exchange
+Pijika Watcharapichat, Victoria Lopez Morales, Raul Castro Fernandez, Peter Pietzuch
+
+Addressing the straggler problem for iterative convergent parallel ML
+Aaron Harlap, Henggang Cui, Wei Dai, Jinliang Wei, Gregory R. Ganger, Phillip B. Gibbons, Garth A. Gibson, Eric P. Xing
+
+Best Paper	RAMinate: Hypervisor-based Virtualization for Hybrid Main Memory Systems
+Takahiro Hirofuchi, Ryousei Takano
+
+A Case for Virtualizing Persistent Memory
+Liang Liang, Rong Chen, Haibo Chen, Yubin Xia, KwanJong Park, Binyu Zang, Haibing Guan
+
+Follow the Sun through the Clouds: Application Migration for Geographically Shifting Workloads
+Zhiming Shen, Qin Jia, Gur-Eyal Sela, Ben Rainero, Weijia Song, Robbert van Renesse, Hakim Weatherspoon
+
+HIL: Designing an Exokernel for the Data Center
+Jason Hennessey, Sahil Tikale, Ata Turk, Emine Ugur Kaynar, Chris Hill, Peter Desnoyers, Orran Krieger
+
+BASS: Improving I/O Performance for Cloud Block Storage via Byte-Addressable Storage Stack
+Hui Lu, Brendan Saltaformaggio, Cong Xu, Umesh Bellur, Dongyan Xu
+
+The Case for RackOut: Scalable Data Serving Using Rack-Scale Systems
+Stanko Novakovic, Alexandros Daglis, Edouard Bugnion, Babak Falsafi, Boris Grot
+
+Grandet: A Unified, Economical Object Store for Web Applications
+Yang Tang, Gang Hu, Xinhao Yuan, Lingmei Weng, Junfeng Yang
+
+Randomized Algorithms for Dynamic Storage Load-Balancing
+Liang Liu, Lance Fortnow, Jin Li, Yating Wang, Jun Xu
+
+CQSTR: Securing Cross-Tenant Applications with Cloud Containers
+Yan Zhai, Lichao Yin, Jeffrey Chase, Thomas Ristenpart, Michael Swift
+
+Radiatus: a Shared-Nothing Server-Side Web Architecture
+Raymond Cheng, William Scott, Paul Ellenbogen, Jon Howell, Franziska Roesner, Arvind Krishnamurthy, Thomas Anderson
+
+Tutamen: A Next-Generation Secret-Storage Platform
+Andy Sayler, Taylor Andrews, Matt Monaco, Dirk Grunwald
+
+Privacy Preserving Collaboration in Bring-Your-Own-Apps
+Sangmin Lee, Deepak Goel, Edmund L. Wong, Asim Kadav, Mike Dahlin
+
+Disciplined Inconsistency with Consistency Types
+Brandon Holt, James Bornholt, Irene Zhang, Dan Ports, Mark Oskin, Luis Ceze
+
+Towards Weakly Consistent Local Storage Systems
+Ji-Yong Shin, Mahesh Balakrishnan, Tudor Marian, Jakub Szefer, Hakim Weatherspoon
+
+The Freeze-Frame File System
+Weijia Song, Theo Gkountouvas, Ken Birman, Qi Chen, Zhen Xiao
+
+Adaptive Caching in Big SQL using the HDFS Cache
+Avrilia Floratou, Nimrod Megiddo, Navneet Potti, Fatma Özcan, Uday Kale, Jan Schmitz-Hermes
+
+ReStream: Accelerating Backtesting and Stream Replay with Serial-Equivalent Parallel Processing
+Johann Schleier-Smith, Erik T. Krogen, Joseph M. Hellerstein
+
+STYX: Stream Processing with Trustworthy Cloud-based Execution
+Julian James Stephen, Savvas Savvides, Vinaitheerthan Sundaram, Masoud Saeida Ardekani, Patrick Eugster
+
+Trading Timeliness and Accuracy in Geo-Distributed Streaming Analytics
+Benjamin Heintz, Abhishek Chandra, Ramesh K. Sitaraman
+
+SNC-Meister: Admitting More Tenants with Tail Latency SLOs
+Timothy Zhu, Daniel S. Berger, Mor Harchol-Balter
+
+STeP: Scalable Tenant Placement for Managing Database-as-a-Service Deployments
+Rebecca Taft, Willis Lang, Jennie Duggan, Aaron J. Elmore, Michael Stonebraker, David DeWitt
+
+Principled workflow-centric tracing of distributed systems
+Raja R. Sambasivan, Ilari Shafer, Jonathan Mace, Benjamin H. Sigelman, Rodrigo Fonseca, Gregory R. Ganger
+
+PerfOrator: eloquent performance models for Resource Optimization
+Kaushik Rajan, Dharmesh Kakadia, Carlo Curino, Subru Krishnan
+
+VNToR: Network Virtualization at the Top-of-Rack Switch
+Jonas Fietz, Sam Whitlock, George Ioannidis, Katerina Argyraki, Edouard Bugnion
+
+Expeditus: Congestion-aware Load Balancing in Clos Data Center Networks
+Peng Wang, Hong Xu, Zhixiong Niu, Dongsu Han, Yongqiang Xiong
+
+Programming and Runtime Support to Blaze FPGA Accelerator Deployment at Datacenter Scale
+Muhuan Huang, Di Wu, Cody Hao Yu, Zhenman Fang, Matteo Interlandi, Tyson Condie, Jason Cong
+
+PipeGen: Data Pipe Generator for Hybrid Analytics
+Brandon Haynes, Alvin Cheung, Magdalena Balazinska
+
+TR-Spark: Transient Computing for Big Data Analytics
+Ying Yan, Yanjie Gao, Yang Chen, Zhongxin Guo, Bole Chen, Thomas Moscibroda
+
+Job-aware Scheduling in Eagle: Divide and Stick to Your Probes
+Pamela Delgado, Diego Didona, Florin Dinu, Willy Zwaenepoel
+
+Optimizing Interactive Development of Data-Intensive Applications
+Matteo Interlandi, Sai Deep Tetali, Muhammad Ali Gulzar, Joseph Noor, Tyson Condie, Miryung Kim, Todd Millstein

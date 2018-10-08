@@ -1,0 +1,101 @@
+Understanding issue correlations: a case study of the Hadoop system
+Jian Huang, Xuechen Zhang, Karsten Schwan
+
+The nearest replica can be farther than you think
+Kirill Bogdanov, Miguel Peón-Quirós, Gerald Q. Maguire Jr., Dejan Kostić
+
+Potassium: penetration testing as a service
+Richard Li, Dallin Abendroth, Xing Lin, Yuankai Guo, Hyun-Wook Baek, Eric Eide, Robert Ricci, Jacobus Van der Merwe
+
+MemcachedGPU: scaling-up scale-out key-value stores
+Tayler H. Hetherington, Mike O'Connor, Tor M. Aamodt
+
+dJay: enabling high-density multi-tenancy for cloud gaming servers with dynamic cost-benefit GPU load balancing
+Sergey Grizan, David Chu, Alec Wolman, Roger Wattenhofer
+
+DSwitch: a dual mode direct and network attached disk
+Quanlu Zhang, Yafei Dai, Lintao Zhang
+
+FastLane: making short flows shorter with agile drop notification
+David Zats, Anand Padmanabha Iyer, Ganesh Ananthanarayanan, Rachit Agarwal, Randy Katz, Ion Stoica, Amin Vahdat
+
+Tarcil: reconciling scheduling speed and quality in large shared clusters
+Christina Delimitrou, Daniel Sanchez, Christos Kozyrakis
+
+Scheduling jobs across geo-distributed datacenters
+Chien-Chun Hung, Leana Golubchik, Minlan Yu
+
+vFair: latency-aware fair storage scheduling via per-IO cost-based differentiation
+Hui Lu, Brendan Saltaformaggio, Ramana Kompella, Dongyan Xu
+
+On data skewness, stragglers, and MapReduce progress indicators
+Emilio Coppa, Irene Finocchi
+
+Forecasting the cost of processing multi-join queries via hashing for main-memory databases
+Feilong Liu, Spyros Blanas
+
+Harnessing data loss with forgetful data structures
+Azza Abouzied, Jay Chen
+
+Software-defined caching: managing caches in multi-tenant data centers
+Ioan Stefanovici, Eno Thereska, Greg O'Shea, Bianca Schroeder, Hitesh Ballani, Thomas Karagiannis, Antony Rowstron, Tom Talpey
+
+Domino: understanding wide-area, asynchronous event causality in web applications
+Ding Li, James Mickens, Suman Nath, Lenin Ravindranath
+
+Microsoft azure SQL database telemetry
+Willis Lang, Frank Bertsch, David J. DeWitt, Nigel Ellis
+
+Zorro: zero-cost reactive failure recovery in distributed graph processing
+Mayank Pundir, Luke M. Leslie, Indranil Gupta, Roy H. Campbell
+
+Database high availability using SHADOW systems
+Jaemyung Kim, Kenneth Salem, Khuzaima Daudjee, Ashraf Aboulnaga, Xin Pan
+
+Reducing replication bandwidth for distributed document databases
+Lianghong Xu, Andrew Pavlo, Sudipta Sengupta, Jin Li, Gregory R. Ganger
+
+ShardFS vs. IndexFS: replication vs. caching strategies for distributed metadata management in cloud storage systems
+Lin Xiao, Kai Ren, Qing Zheng, Garth A. Gibson
+
+Evaluating the impact of fine-scale burstiness on cloud elasticity
+Sadeka Islam, Srikumar Venugopal, Anna Liu
+
+Centiman: elastic, high performance optimistic concurrency control by watermarking
+Bailu Ding, Lucja Kot, Alan Demers, Johannes Gehrke
+
+Online parameter optimization for elastic data stream processing
+Thomas Heinze, Lars Roediger, Andreas Meister, Yuanzhen Ji, Zbigniew Jerzak, Christof Fetzer
+
+Towards a comprehensive performance model of virtual machine live migration
+Senthil Nathan, Umesh Bellur, Purushottam Kulkarni
+
+Achieving cost-efficient, data-intensive computing in the cloud
+Michael Conley, Amin Vahdat, George Porter
+
+Response time service level agreements for cloud-hosted web applications
+Hiranya Jayathilaka, Chandra Krintz, Rich Wolski
+
+SpotOn: a batch computing service for the spot market
+Supreeth Subramanya, Tian Guo, Prateek Sharma, David Irwin, Prashant Shenoy
+
+Energy proportionality and workload consolidation for latency-critical applications
+George Prekas, Mia Primorac, Adam Belay, Christos Kozyrakis, Edouard Bugnion
+
+CoolProvision: underprovisioning datacenter cooling
+Ioannis Manousakis, Íñigo Goiri, Sriram Sankar, Thu D. Nguyen, Ricardo Bianchini
+
+Automating model search for large scale machine learning
+Evan R. Sparks, Ameet Talwalkar, Daniel Haas, Michael J. Franklin, Michael I. Jordan, Tim Kraska
+
+Managed communication and consistency for fast data-parallel iterative analytics
+Jinliang Wei, Wei Dai, Aurick Qiao, Qirong Ho, Henggang Cui, Gregory R. Ganger, Phillip B. Gibbons, Garth A. Gibson, Eric P. Xing
+
+Using data transformations for low-latency time series analysis
+Henggang Cui, Kimberly Keeton, Indrajit Roy, Krishnamurthy Viswanathan, Gregory R. Ganger
+
+GraM: scaling graph computation to the trillions
+Ming Wu, Fan Yang, Jilong Xue, Wencong Xiao, Youshan Miao, Lan Wei, Haoxiang Lin, Yafei Dai, Lidong Zhou
+
+Algebricks: a data model-agnostic compiler backend for big data languages
+Vinayak Borkar, Yingyi Bu, E. Preston Carman Jr., Nicola Onose, Till Westmann, Pouria Pirzadeh, Michael J. Carey, Vassilis J. Tsotras

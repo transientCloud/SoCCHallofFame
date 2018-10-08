@@ -1,0 +1,89 @@
+An efficient multi-tier tablet server storage architecture
+Richard P. Spillane, Pradeep J. Shetty, Erez Zadok, Sagar Dixit, Shrikar Archak
+
+Small-world datacenters
+Ji-Yong Shin, Bernard Wong, Emin Gün Sirer
+
+Modeling and synthesizing task placement constraints in Google compute clusters
+Bikash Sharma, Victor Chudnovsky, Joseph L. Hellerstein, Rasekh Rifaat, Chita R. Das
+
+DOT: a matrix model for analyzing, optimizing and deploying software for big data analytics in distributed systems
+Yin Huai, Rubao Lee, Simon Zhang, Cathy H. Xia, Xiaodong Zhang
+
+CloudScale: elastic resource scaling for multi-tenant cloud systems
+Zhiming Shen, Sethuraman Subbiah, Xiaohui Gu, John Wilkes
+
+ALIAS: scalable, decentralized label assignment for data centers
+Meg Walraed-Sullivan, Radhika Niranjan Mysore, Malveeka Tewari, Ying Zhang, Keith Marzullo, Amin Vahdat
+
+Incoop: MapReduce for incremental computations
+Pramod Bhatotia, Alexander Wieder, Rodrigo Rodrigues, Umut A. Acar, Rafael Pasquin
+
+CloudNaaS: a cloud networking platform for enterprise applications
+Theophilus Benson, Aditya Akella, Anees Shaikh, Sambit Sahu
+
+YCSB++: benchmarking and performance debugging advanced features in scalable table stores
+Swapnil Patil, Milo Polte, Kai Ren, Wittawat Tantisiriroj, Lin Xiao, Julio López, Garth Gibson, Adam Fuchs, Billie Rinaldi
+
+Silverline: toward data confidentiality in storage-intensive cloud applications
+Krishna P. N. Puttaswamy, Christopher Kruegel, Ben Y. Zhao
+
+CoScan: cooperative scan sharing in the cloud
+Xiaodan Wang, Christopher Olston, Anish Das Sarma, Randal Burns
+
+Query optimization for massively parallel data processing
+Sai Wu, Feng Li, Sharad Mehrotra, Beng Chin Ooi
+
+PrIter: a distributed framework for prioritized iterative computations
+Yanfeng Zhang, Qixin Gao, Lixin Gao, Cuirong Wang
+
+Policy expressivity in the Anzere personal cloud
+Oriana Riva, Qin Yin, Dejan Juric, Ercan Ucan, Timothy Roscoe
+
+ActiveSLA: a profit-oriented admission control framework for database-as-a-service providers
+Pengcheng Xiong, Yun Chi, Shenghuo Zhu, Junichi Tatemura, Calton Pu, Hakan HacigümüŞ
+
+Orleans: cloud computing for everyone
+Sergey Bykov, Alan Geller, Gabriel Kliot, James R. Larus, Ravi Pandya, Jorgen Thelin
+
+PipeCloud: using causality to overcome speed-of-light delays in cloud-based disaster recovery
+Timothy Wood, H. Andrés Lagar-Cavilla, K. K. Ramakrishnan, Prashant Shenoy, Jacobus Van der Merwe
+
+No one (cluster) size fits all: automatic cluster sizing for data-intensive analytics
+Herodotos Herodotou, Fei Dong, Shivnath Babu
+
+Pesto: online storage performance management in virtualized datacenters
+Ajay Gulati, Ganesha Shanmuganathan, Irfan Ahmad, Carl Waldspurger, Mustafa Uysal
+
+Making time-stepped applications tick in the cloud
+Tao Zou, Guozhang Wang, Marcos Vaz Salles, David Bindel, Alan Demers, Johannes Gehrke, Walker White
+
+Trojan data layouts: right shoes for a running elephant
+Alekh Jindal, Jorge-Arnulfo Quiané-Ruiz, Jens Dittrich
+
+Cuanta: quantifying effects of shared on-chip resource interference for consolidated virtual machines
+Sriram Govindan, Jie Liu, Aman Kansal, Anand Sivasubramaniam
+
+Small cache, big effect: provable load balancing for randomly partitioned cluster services
+Bin Fan, Hyeontaek Lim, David G. Andersen, Michael Kaminsky
+
+Opportunistic flooding to improve TCP transmit performance in virtualized clouds
+Sahan Gamage, Ardalan Kangarlou, Ramana Rao Kompella, Dongyan Xu
+
+Improving per-node efficiency in the datacenter with new OS abstractions
+Barret Rhoden, Kevin Klues, David Zhu, Eric Brewer
+
+Declarative automated cloud resource orchestration
+Changbin Liu, Boon Thau Loo, Yun Mao
+
+Automatic management of partitioned, replicated search services
+Florian Leibert, Jake Mannix, Jimmy Lin, Babak Hamadani
+
+Scaling the mobile millennium system in the cloud
+Timothy Hunter, Teodor Moldovan, Matei Zaharia, Samy Merzgui, Justin Ma, Michael J. Franklin, Pieter Abbeel, Alexandre M. Bayen
+
+To cloud or not to cloud?: musings on costs and viability
+Yao Chen, Radu Sion
+
+Switching the optical divide: fundamental challenges for hybrid electrical/optical datacenter networks
+Hamid Hajabdolali Bazzaz, Malveeka Tewari, Guohui Wang, George Porter, T. S. Eugene Ng, David G. Andersen, Michael Kaminsky, Michael A. Kozuch, Amin Vahdat

@@ -1,0 +1,68 @@
+An operating system for multicore and clouds: mechanisms and implementation
+David Wentzlaff, Charles Gruenwald III, Nathan Beckmann, Kevin Modzelewski, Adam Belay, Lamia Youseff, Jason Miller, Anant Agarwal
+
+Lithium: virtual machine storage for the cloud
+Jacob Gorm Hansen, Eric Jul
+
+Differential virtual time (DVT): rethinking I/O service differentiation for virtual machines
+Mukil Kesavan, Ada Gavrilovska, Karsten Schwan
+
+Virtual machine power metering and provisioning
+Aman Kansal, Feng Zhao, Jie Liu, Nupur Kothari, Arka A. Bhattacharya
+
+Stateful bulk processing for incremental analytics
+Dionysios Logothetis, Christopher Olston, Benjamin Reed, Kevin C. Webb, Ken Yocum
+
+Comet: batched stream processing for data intensive distributed computing
+Bingsheng He, Mao Yang, Zhenyu Guo, Rishan Chen, Bing Su, Wei Lin, Lidong Zhou
+
+Skew-resistant parallel processing of feature-extracting scientific user-defined functions
+YongChul Kwon, Magdalena Balazinska, Bill Howe, Jerome Rolia
+
+Hermes: clustering users in large-scale e-mail services
+Thomas Karagiannis, Christos Gkantsidis, Dushyanth Narayanan, Antony Rowstron
+
+Defining future platform requirements for e-Science clouds
+Lavanya Ramakrishnan, Keith R. Jackson, Shane Canon, Shreyas Cholia, John Shalf
+
+Fluxo: a system for internet service programming by non-expert developers
+Emre Kiciman, Benjamin Livshits, Madanlal Musuvathi, Kevin C. Webb
+
+Nephele/PACTs: a programming model and execution framework for web-scale analytical processing
+Dominic Battré, Stephan Ewen, Fabian Hueske, Odej Kao, Volker Markl, Daniel Warneke
+
+The case for PIQL: a performance insightful query language
+Michael Armbrust, Nick Lanham, Stephen Tu, Armando Fox, Michael J. Franklin, David A. Patterson
+
+Towards automatic optimization of MapReduce programs
+Shivnath Babu
+
+Benchmarking cloud serving systems with YCSB
+Brian F. Cooper, Adam Silberstein, Erwin Tam, Raghu Ramakrishnan, Russell Sears
+
+Automated software testing as a service
+George Candea, Stefan Bucur, Cristian Zamfir
+
+G-Store: a scalable data store for transactional multi key access in the cloud
+Sudipto Das, Divyakant Agrawal, Amr El Abbadi
+
+Google fusion tables: data management, integration and collaboration in the cloud
+Hector Gonzalez, Alon Halevy, Christian S. Jensen, Anno Langen, Jayant Madhavan, Rebecca Shapley, Warren Shen
+
+Making cloud intermediate data fault-tolerant
+Steven Y. Ko, Imranul Hoque, Brian Cho, Indranil Gupta
+
+Characterizing cloud computing hardware reliability
+Kashi Venkatesh Vishwanath, Nachiappan Nagappan
+
+A self-organized, fault-tolerant and scalable replication scheme for cloud storage
+Nicolas Bonvin, Thanasis G. Papaioannou, Karl Aberer
+
+Robust and flexible power-proportional storage
+Hrishikesh Amur, James Cipar, Varun Gupta, Gregory R. Ganger, Michael A. Kozuch, Karsten Schwan
+
+RACS: a case for cloud storage diversity
+Hussam Abu-Libdeh, Lonnie Princehouse, Hakim Weatherspoon
+
+Characterizing, modeling, and generating workload spikes for stateful services
+Peter Bodik, Armando Fox, Michael J. Franklin, Michael I. Jordan, David A. Patterson

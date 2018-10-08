@@ -1,0 +1,83 @@
+Logic and lattices for distributed programming
+Neil Conway, William R. Marczak, Peter Alvaro, Joseph M. Hellerstein, David Maier
+
+vBalance: using interrupt load balance to improve I/O performance for SMP virtual machines
+Luwei Cheng, Cho-Li Wang
+
+Improving large graph processing on partitioned graphs in the cloud
+Rishan Chen, Mao Yang, Xuetian Weng, Byron Choi, Bingsheng He, Xiaoming Li
+
+Sailfish: a framework for large scale data processing
+Sriram Rao, Raghu Ramakrishnan, Adam Silberstein, Mike Ovsiannikov, Damian Reeves
+
+OS-Sommelier: memory-only operating system fingerprinting in the cloud
+Yufei Gu, Yangchun Fu, Aravind Prakash, Zhiqiang Lin, Heng Yin
+
+How consistent is your cloud application?
+Kamal Zellag, Bettina Kemme
+
+Heterogeneity and dynamicity of clouds at scale: Google trace analysis
+Charles Reiss, Alexey Tumanov, Gregory R. Ganger, Randy H. Katz, Michael A. Kozuch
+
+Using vector interfaces to deliver millions of IOPS from a networked key-value storage server
+Vijay Vasudevan, Michael Kaminsky, David G. Andersen
+
+Chronos: predictable low latency for data center applications
+Rishi Kapoor, George Porter, Malveeka Tewari, Geoffrey M. Voelker, Amin Vahdat
+
+Bridging the tenant-provider gap in cloud services
+Virajith Jalaparti, Hitesh Ballani, Paolo Costa, Thomas Karagiannis, Ant Rowstron
+
+Using batteries to reduce the power costs of internet-scale distributed networks
+Darshan S. Palasamudram, Ramesh K. Sitaraman, Bhuvan Urgaonkar, Rahul Urgaonkar
+
+Zeta: scheduling interactive services with partial execution
+Yuxiong He, Sameh Elnikety, James Larus, Chenyu Yan
+
+Themis: an I/O-efficient MapReduce
+Alexander Rasmussen, Vinh The Lam, Michael Conley, George Porter, Rishi Kapoor, Amin Vahdat
+
+Cake: enabling high-level SLOs on shared storage systems
+Andrew Wang, Shivaram Venkataraman, Sara Alspaugh, Randy Katz, Ion Stoica
+
+Generalized resource allocation for the cloud
+Anshul Rai, Ranjita Bhagwan, Saikat Guha
+
+Balancing reducer skew in MapReduce workloads using progressive sampling
+Smriti R. Ramakrishnan, Garret Swart, Aleksey Urmanov
+
+Probabilistic deduplication for cluster-based storage systems
+Davide Frey, Anne-Marie Kermarrec, Konstantinos Kloudas
+
+All aboard the Databus!: Linkedin's scalable consistent change data capture platform
+Shirshanka Das, Chavdar Botev, Kapil Surlaker, Bhaskar Ghosh, Balaji Varadarajan, Sunil Nagaraj, David Zhang, Lei Gao, Jemiah Westerman, Phanindra Ganti, Boris Shkolnik, Sajid Topiwala, Alexander Pachev, Naveen Somasundaram, Subbu Subramaniam
+
+Untangling cluster management with Helix
+Kishore Gopalakrishna, Shi Lu, Zhen Zhang, Adam Silberstein, Kapil Surlaker, Ramesh Subramonian, Bob Schulman
+
+More for your money: exploiting performance heterogeneity in public clouds
+Benjamin Farley, Ari Juels, Venkatanathan Varadarajan, Thomas Ristenpart, Kevin D. Bowers, Michael M. Swift
+
+Romano: autonomous storage management using performance prediction in multi-tenant datacenters
+Nohhyun Park, Irfan Ahmad, David J. Lilja
+
+The potential dangers of causal consistency and an explicit solution
+Peter Bailis, Alan Fekete, Ali Ghodsi, Joseph M. Hellerstein, Ion Stoica
+
+A case for dual stack virtualization: consolidating HPC and commodity applications in the cloud
+Brian Kocoloski, Jiannan Ouyang, John Lange
+
+True elasticity in multi-tenant data-intensive compute clusters
+Ganesh Ananthanarayanan, Christopher Douglas, Raghu Ramakrishnan, Sriram Rao, Ion Stoica
+
+alsched: algebraic scheduling of mixed workloads in heterogeneous clouds
+Alexey Tumanov, James Cipar, Gregory R. Ganger, Michael A. Kozuch
+
+Designing good algorithms for MapReduce and beyond
+Foto N. Afrati, Magdalena Balazinska, Anish Das Sarma, Bill Howe, Semih Salihoglu, Jeffrey D. Ullman
+
+Distributed programming and consistency: principles and practice
+Peter Alvaro, Neil Conway, Joseph M. Hellerstein
+
+Open source cloud technologies
+Salman A. Baset

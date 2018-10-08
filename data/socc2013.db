@@ -1,0 +1,68 @@
+Pico replication: a high availability framework for middleboxes
+Shriram Rajagopalan, Dan Williams, Hani Jamjoom
+
+On fault resilience of OpenStack
+Xiaoen Ju, Livio Soares, Kang G. Shin, Kyung Dong Ryu, Dilma Da Silva
+
+COLO: COarse-grained LOck-stepping virtual machines for non-stop service
+YaoZu Dong, Wei Ye, YunHong Jiang, Ian Pratt, ShiQing Ma, Jian Li, HaiBing Guan
+
+Hierarchical scheduling for diverse datacenter workloads
+Arka A. Bhattacharya, David Culler, Eric Friedman, Ali Ghodsi, Scott Shenker, Ion Stoica
+
+Apache Hadoop YARN: yet another resource negotiator
+Vinod Kumar Vavilapalli, Arun C. Murthy, Chris Douglas, Sharad Agarwal, Mahadev Konar, Robert Evans, Thomas Graves, Jason Lowe, Hitesh Shah, Siddharth Seth, Bikas Saha, Carlo Curino, Owen O'Malley, Sanjay Radia, Benjamin Reed, Eric Baldeschwieler
+
+Natjam: design and evaluation of eviction policies for supporting priorities and deadlines in mapreduce clusters
+Brian Cho, Muntasir Rahman, Tej Chajed, Indranil Gupta, Cristina Abad, Nathan Roberts, Philbert Lin
+
+Small is better: avoiding latency traps in virtualized data centers
+Yunjing Xu, Michael Bailey, Brian Noble, Farnam Jahanian
+
+Go, server, go!: parallel computing with moving servers
+R. Barber, G. Lohman, R. Mueller, I. Pandis, V. Raman, W. Wilcke
+
+Virtual network diagnosis as a service
+Wenfei Wu, Guohui Wang, Aditya Akella, Anees Shaikh
+
+jVerbs: ultra-low latency for data center applications
+Patrick Stuedi, Bernard Metzler, Animesh Trivedi
+
+Orbe: scalable causal consistency using dependency matrices and physical clocks
+Jiaqing Du, Sameh Elnikety, Amitabha Roy, Willy Zwaenepoel
+
+Leveraging sharding in the design of scalable replication protocols
+Hussam Abu-Libdeh, Robbert van Renesse, Ymir Vigfusson
+
+Understanding and mitigating the impact of load imbalance in the memory caching tier
+Yu-Ju Hong, Mithuna Thottethodi
+
+Limplock: understanding the impact of limpware on scale-out cloud systems
+Thanh Do, Mingzhe Hao, Tanakorn Leesatapornwongsa, Tiratat Patana-anake, Haryadi S. Gunawi
+
+When the network crumbles: an empirical study of cloud network failures and their impact on services
+Rahul Potharaju, Navendu Jain
+
+vTube: efficient streaming of virtual appliances over last-mile networks
+Yoshihisa Abe, Roxana Geambasu, Kaustubh Joshi, H. Andrés Lagar-Cavilla, Mahadev Satyanarayanan
+
+Scalable lineage capture for debugging DISC analytics
+Dionysios Logothetis, Soumyarupa De, Kenneth Yocum
+
+Memory-efficient groupby-aggregate using compressed buffer trees
+Hrishikesh Amur, Wolfgang Richter, David G. Andersen, Michael Kaminsky, Karsten Schwan, Athula Balachandran, Erik Zawadzki
+
+Memory footprint matters: efficient equi-join algorithms for main memory data processing
+Spyros Blanas, Jignesh M. Patel
+
+Scale-up vs scale-out for Hadoop: time to rethink?
+Raja Appuswamy, Christos Gkantsidis, Dushyanth Narayanan, Orion Hodson, Antony Rowstron
+
+EventWave: programming model and runtime support for tightly-coupled elastic cloud applications
+Wei-Chiu Chuang, Bo Sang, Sunghwan Yoo, Rui Gu, Milind Kulkarni, Charles Killian
+
+Tolerating business failures in hosted applications
+Jean-Sebastien Legare, Dutch T. Meyer, Mark Spear, Alexandru Totolici, Sara Bainbridge, Kalan MacRow, Robert Sumi, Quinlan Jung, Dennis Tjandra, David Williams-King, William Aiello, Andrew Warfield
+
+Consistency without borders
+Peter Alvaro, Peter Bailis, Neil Conway, Joseph M. Hellerstein
