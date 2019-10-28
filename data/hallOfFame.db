@@ -1,38 +1,46 @@
 Gregory R. Ganger	11
-Ion Stoica	9
+Ion Stoica	10
+Alexey Tumanov	6
 Amin Vahdat	6
 David G. Andersen	6
 Joseph M. Hellerstein	6
 Michael A. Kozuch	6
+Randy Katz	6
 Garth A. Gibson	5
 George Porter	5
 Haryadi S. Gunawi	5
 Jacobus Van der Merwe	5
 Karsten Schwan	5
+Matteo Interlandi	5
 Michael Kaminsky	5
 Peter Alvaro	5
-Randy Katz	5
+Ada Gavrilovska	4
 Aditya Akella	4
-Alexey Tumanov	4
+Antony Rowstron	4
+Carlo Curino	4
+Chris Douglas	4
 Dongyan Xu	4
 Eric P. Xing	4
 Henggang Cui	4
+Hong Jiang	4
 Indranil Gupta	4
-Matteo Interlandi	4
+Magdalena Balazinska	4
 Michael J. Franklin	4
+Michael M. Swift	4
+Qiang Cao	4
 Raghu Ramakrishnan	4
 Sriram Rao	4
+Subru Krishnan	4
 Tanakorn Leesatapornwongsa	4
+Timothy Zhu	4
 Willy Zwaenepoel	4
 Ymir Vigfusson	4
-Ada Gavrilovska	3
 Adam Silberstein	3
+Alekh Jindal	3
 Ali Ghodsi	3
-Antony Rowstron	3
 Arvind Krishnamurthy	3
 Avrilia Floratou	3
-Carlo Curino	3
-Chris Douglas	3
+Christos Kozyrakis	3
 David Irwin	3
 David Wentzlaff	3
 Edouard Bugnion	3
@@ -41,25 +49,28 @@ Fatma Özcan	3
 Ganesh Ananthanarayanan	3
 Haibing Guan	3
 Hakim Weatherspoon	3
+Ji-Yong Shin	3
 Jinliang Wei	3
+Jonathan Mace	3
 Lixin Gao	3
-Magdalena Balazinska	3
+Luis Ceze	3
 Malveeka Tewari	3
 Marco Canini	3
-Michael M. Swift	3
 Mingzhe Hao	3
+Miryung Kim	3
 Mor Harchol-Balter	3
+Muhammad Ali Gulzar	3
 Neil Conway	3
 Phillip B. Gibbons	3
-Qiang Cao	3
 Qirong Ho	3
+Ravi Netravali	3
+Robert Ricci	3
 Sameh Elnikety	3
 Scott Shenker	3
 Spyros Blanas	3
-Supreeth Shastri	3	
+Supreeth Shastri	3
 Thomas Karagiannis	3
 Tilmann Rabl	3
-Timothy Zhu	3
 Tyson Condie	3
 Volker Markl	3
 Wei Dai	3
@@ -70,7 +81,7 @@ Abhishek Chandra	2
 Adam Belay	2
 Agung Laksono	2
 Alan Demers	2
-Alekh Jindal	2
+Alvin Cheung	2
 Aman Kansal	2
 Amitabha Roy	2
 Anand Padmanabha Iyer	2
@@ -86,25 +97,31 @@ Armando Fox	2
 Beng Chin Ooi	2
 Benjamin Reed	2
 Bernard Metzler	2
+Bhuvan Urgaonkar	2
 Bill Howe	2
 Bingsheng He	2
 Boon Thau Loo	2
+Brandon Haynes	2
 Brendan Saltaformaggio	2
 Brian Cho	2
+Chang Hyun Shin	2
 Christof Fetzer	2
 Christopher Olston	2
 Christos Gkantsidis	2
-Christos Kozyrakis	2
 Cong Xu	2
-Dan Ports	2	
+Dan R. K. Ports	2
 Dan Williams	2
-David DeWitt	2	
 David A. Patterson	2
+David DeWitt	2
 Dejan Kostić	2
 Di Niu	2
 Diego Didona	2
+Diego Lugones	2
 Dionysios Logothetis	2
 Dushyanth Narayanan	2
+Fabien Hermenier	2
+Fan Guo	2
+Fan Ni	2
 Fei Mei	2
 Florin Dinu	2
 Ge Yu	2
@@ -114,40 +131,52 @@ Greg O'Shea	2
 Guohui Wang	2
 H. Andrés Lagar-Cavilla	2
 Hitesh Ballani	2
-Hong Jiang	2
 Hong Xu	2
+Hongzhi Chen	2
 Hrishikesh Amur	2
+Huangshi Tian	2
 Hui Lu	2
 Hussam Abu-Libdeh	2
+Hyeon-Jae Lee	2
+Hyuk-Jin Jeong	2
 Hyunwook Baek	2
 Ioannis Manousakis	2
 Irfan Ahmad	2
 Ishai Menache	2
+James Cheng	2
 James Cipar	2
+James Larus	2
+James Mickens	2
 Jeffry Adityatama	2
-Ji-Yong Shin	2
+Jia Rao	2
 Jian Li	2
 Jiaqing Du	2
 Jie Liu	2
+Jie Yao	2
 Jin Li	2
 Johannes Gehrke	2
+John Lui	2
 John Wilkes	2
-Jonathan Mace	2
+Jorge Quiane	2
+Joseph Gonzalez	2
 Julian James Stephen	2
 Juncheng Yang	2
 Junfeng Yang	2
 Kai Ren	2
 Kapil Surlaker	2
 Kevin C. Webb	2
-Kirill L. Bogdanov	2
+Kirill Bogdanov	2
+Konstantinos Karanasos	2
 Kurnia J. Eliazar	2
 Lalith Suresh	2
+Li Zhang	2
 Lianghong Xu	2
 Lidong Zhou	2
 Lin Xiao	2
-Luis Ceze	2
 Luwei Cheng	2
+Mahesh Balakrishnan	2
 Mao Yang	2
+Mark Oskin	2
 Masoud Saeida Ardekani	2
 Matei Zaharia	2
 Michael Conley	2
@@ -155,15 +184,16 @@ Michael I. Jordan	2
 Michio Honda	2
 Ming Wu	2
 Mingda Li	2
-Miryung Kim	2
 Mohammad Shahrad	2
-Muhammad Ali Gulzar	2
-Neeraja J. Yadwadkar	2
+Neeraja Yadwadkar	2
+Orran Krieger	2
 Pamela Delgado	2
 Patrick Eugster	2
 Patrick Stuedi	2
+Pedro Las-Casas	2
 Peter Bailis	2
 Peter Bodik	2
+Peter Pietzuch	2
 Pramod Bhatotia	2
 Prashant Shenoy	2
 Purushottam Kulkarni	2
@@ -171,12 +201,13 @@ Quanlu Zhang	2
 Radu Sion	2
 Ramana Rao Kompella	2
 Ramesh K. Sitaraman	2
+Randal Burns	2
+Rene Mueller	2
 Ricardo Bianchini	2
 Rishan Chen	2
 Rishi Kapoor	2
 Riza O. Suminto	2
 Robbert van Renesse	2
-Robert Ricci	2
 Rodrigo Fonseca	2
 Rui Gu	2
 Sahan Gamage	2
@@ -184,22 +215,29 @@ Savvas Savvides	2
 Sebastian Breß	2
 Shivaram Venkataraman	2
 Shivnath Babu	2
+Song Jiang	2
+Soo-Mook Moon	2
 Srikanth Kandula	2
-Subru Krishnan	2
 Thanh Do	2
+Theophilus Benson	2
 Thomas Moscibroda	2
 Thomas Ristenpart	2
 Thu D. Nguyen	2
 Tiratat Patana-anake	2
-Trausti Saemundsson	2
+Trausti Sæmundsson	2
 Umesh Bellur	2
+Vasily Tarasov	2
 Vinaitheerthan Sundaram	2
 Vincentius Martin	2
 Virajith Jalaparti	2
+Wei Wang	2
 Weijia Song	2
 Willis Lang	2
+Xiaobo Zhou	2
 Xueyuan Han	2
 Yanfang Le	2
+Yinlong Xu	2
+Yongkun Li	2
 Yu Gu	2
 Yubin Bao	2
 Yuxiong He	2
@@ -211,7 +249,13 @@ Aakanksha Chowdhery	1
 Aaron Harlap	1
 Aarti Gupta	1
 Abhinav Srivastava	1
+Abhinay Nagpal	1
+Abhiram Eswaran	1
+Abhishek Roy	1
+Ada Wai-Chee Fu	1
 Adam Fuchs	1
+Aditya Ramesh	1
+Aidi Pi	1
 Ajay Gulati	1
 Akash Kanase	1
 Alan Fekete	1
@@ -229,11 +273,13 @@ Alexandros Daglis	1
 Alexandru Totolici	1
 Ali Basiri	1
 Alon Halevy	1
-Alvin Cheung	1
 Amar Phanishayee	1
 Ameet Talwalkar	1
+Amirhossein Mirhosseini	1
 Amit S. Warke	1
+Amoghavarsha Suresh	1
 Amr El Abbadi	1
+Amrita Mazumdar	1
 Anand Sivasubramaniam	1
 Anant Agarwal	1
 Anastasia Ailamaki	1
@@ -243,13 +289,15 @@ Andrew Chung	1
 Andrew Or	1
 Andrew Pavlo	1
 Andrew Wang	1
+Andrew Zhang	1
 Andy Sayler	1
 Anil Shanbhag	1
+Anirudh Sivaraman	1
 Anna Liu	1
 Anne-Marie Kermarrec	1
 Anno Langen	1
+Anshul Gandhi	1
 Anshul Rai	1
-Ant Rowstron	1
 Anton Burtsev	1
 Aravind Prakash	1
 Ardalan Kangarlou	1
@@ -261,9 +309,11 @@ Ashvin Agrawal	1
 Asim Kadav	1
 Asterios Katsifodimos	1
 Ata Turk	1
+Ataollah Fatahi Baarzi	1
 Athula Balachandran	1
 Aurick Qiao	1
 Avani Wildani	1
+Ayse Coskun	1
 Azza Abouzied	1
 Babak Falsafi	1
 Babak Hamadani	1
@@ -281,10 +331,10 @@ Benjamin Livshits	1
 Benjamin Recht	1
 Bernard Wong	1
 Bernhard Egger	1
+Bertty Contreras	1
 Bettina Kemme	1
 Bharath Hariharan	1
 Bhaskar Ghosh	1
-Bhuvan Urgaonkar	1
 Bianca Schroeder	1
 Bikas Saha	1
 Bikash Sharma	1
@@ -293,14 +343,16 @@ Bin Fan	1
 Bing Su	1
 Binyu Zang	1
 Bo Fu	1
+Bo Hu	1
 Bo Sang	1
 Bob Schulman	1
 Bole Chen	1
 Boris Grot	1
 Boris Shkolnik	1
-Brandon Haynes	1
+Bowen She	1
 Brandon Holt	1
 Brent Stephens	1
+Brian Crites	1
 Brian F. Cooper	1
 Brian Kocoloski	1
 Brian Noble	1
@@ -312,21 +364,23 @@ Casey Rosenthal	1
 Cathy H. Xia	1
 Cesar A. Stuardo	1
 Chandra Krintz	1
-Chang Hyun Shin	1
 Chang Liu	1
 Changbin Liu	1
+Changji Li	1
 Changsheng Xie	1
 Changyeon Jo	1
 Changzheng Wei	1
 Chao Zheng	1
 Charles B. Morrey	1
-Charles Gruenwald III	1
+Charles Gruenwald	1
 Charles Killian	1
 Charles Reiss	1
 Chavdar Botev	1
 Cheng Huang	1
 Cheng Jin	1
+Cheng Pan	1
 Cheng Wang	1
+Chenghuan Huang	1
 Chenyu Yan	1
 Chien-Chun Hung	1
 Chita R. Das	1
@@ -336,7 +390,6 @@ Chris Jermaine	1
 Chris Sanden	1
 Christian S. Jensen	1
 Christina Delimitrou	1
-Christopher Douglas	1
 Christopher Kruegel	1
 Cody Hao Yu	1
 Cole Schlesinger	1
@@ -370,6 +423,7 @@ David Eyers	1
 David J. Lilja	1
 David Johnson	1
 David Maier	1
+David Pease	1
 David Walker	1
 David Williams-King	1
 David Zats	1
@@ -383,15 +437,17 @@ Dejan Juric	1
 Dennis Tjandra	1
 Dharmesh Kakadia	1
 Di Wu	1
-Diego Lugones	1
 Dilma Da Silva	1
 Dimitrios Skourtis	1
+Ding Ding	1
 Ding Li	1
 Dirk Grunwald	1
 Divyakant Agrawal	1
 Djellel E. Difallah	1
 Do Le Quoc	1
 Dominic Battré	1
+Dong Xie	1
+Dongjie Shi	1
 Dongli Zhang	1
 Dongsu Han	1
 Dorgival Guedes	1
@@ -399,12 +455,14 @@ Douglas Santry	1
 Douglas Thain	1
 Dutch T. Meyer	1
 E. Preston Carman Jr.	1
+Eamonn Keogh	1
 Edmund L. Wong	1
 Eduardo Alchieri	1
 Edward Wijaya	1
 Emilio Coppa	1
 Emin Gün Sirer	1
 Emine Ugur Kaynar	1
+Emre Ates	1
 Emre Kiciman	1
 Eno Thereska	1
 Ercan Ucan	1
@@ -419,14 +477,14 @@ Erik Elmroth	1
 Erik T. Krogen	1
 Erik Zawadzki	1
 Erwin Tam	1
+Eugene Wu	1
 Evan R. Sparks	1
 Fabian Hueske	1
-Fabien Hermenier	1
-Fan Ni	1
 Fan Yang	1
 Faria Kalim	1
 Farnam Jahanian	1
 Fei Dong	1
+Feifei Li	1
 Feilong Liu	1
 Felipe Huici	1
 Feng Chen	1
@@ -442,10 +500,10 @@ Francis C. M. Lau	1
 Francisco Brasileiro	1
 Frank Bertsch	1
 Franziska Roesner	1
-G. Lohman	1
 Gabriel Kliot	1
 Ganesha Shanmuganathan	1
 Gang Hu	1
+Gareth Funning	1
 Garret Swart	1
 Geoff Jiang	1
 George Candea	1
@@ -453,13 +511,17 @@ George Ioannidis	1
 George Prekas	1
 Georgos Siganos	1
 Gianmarco De Francisci Morales	1
+Giorgi Papakerashvili	1
 Giorgos Saloustros	1
 Giuseppe Lettieri	1
 Gregory Chockler	1
 Guofei Jiang	1
+Guoqing Harry Xu	1
+Guoqiong Song	1
 Guozhang Wang	1
 Gur-Eyal Sela	1
 Gustavo Alonso	1
+Guy Lohman	1
 Haibo Chen	1
 Haiying Shen	1
 Hakan HacigümüŞ	1
@@ -467,6 +529,7 @@ Hamid Hajabdolali Bazzaz	1
 Hani Jamjoom	1
 Hans-Arno Jacobsen	1
 Hanyu Zhao	1
+Hao Che	1
 Hao Wang	1
 Hao Zhou	1
 Haoran Cai	1
@@ -474,30 +537,30 @@ Haoxiang Lin	1
 Haoyu Zhang	1
 Haoyuan Li	1
 Harsha V. Madhyastha	1
+Harshit Daga	1
 Hector Gonzalez	1
 Heming Cui	1
 Heng Yin	1
+Hernan Vanzetto	1
 Herodotos Herodotou	1
 Hiep Nguyen	1
+Himanshu Shukla	1
 Hiranya Jayathilaka	1
+Hiren Patel	1
 Hiroshi Yamada	1
 Hitesh Shah	1
 Hjortur Bjornsson	1
 Hobin Yoon	1
-Hongzhi Chen	1
+Hossein Golestani	1
 Hsien-Hsin S. Lee	1
 Hua Fan	1
 Huan Ke	1
-Huangshi Tian	1
 Hucheng Zhou	1
 Hui Zhang	1
-Hyeon-Jae Lee	1
+Huiyang Li	1
 Hyeontaek Lim	1
-Hyuk-Jin Jeong	1
 Hyun-Wook Baek	1
 Hyunseok Chang	1
-I. Pandis	1
-III	1
 Ian A. Kash	1
 Ian Pratt	1
 Ignacio Cano	1
@@ -506,6 +569,7 @@ Imranul Hoque	1
 Indrajit Roy	1
 Ingo Müller	1
 Ioan Stefanovici	1
+Ippokratis Pandis	1
 Irene Finocchi	1
 Irene Zhang	1
 Irina Calciu	1
@@ -520,15 +584,13 @@ Jake Mannix	1
 Jake Wires	1
 Jakub Szefer	1
 James Bornholt	1
-James Cheng	1
-James Larus	1
-James Mickens	1
-James R. Larus	1
 Jan Schmitz-Hermes	1
+Janhavi Mahajan	1
 Jason Cong	1
 Jason Hennessey	1
 Jason Lowe	1
 Jason Miller	1
+Jason Teoh	1
 Jay Chen	1
 Jayant Madhavan	1
 Jayneel Gandhi	1
@@ -545,21 +607,24 @@ Jens Dittrich	1
 Jens Meiners	1
 Jerome Rolia	1
 Jesse Haber-Kucharsky	1
-Jia Rao	1
 Jialin Li	1
 Jian Huang	1
 Jian Tan	1
+Jian Zhang	1
 Jiannan Ouyang	1
 Jianxun Liu	1
 Jianyu Jiang	1
+Jiao Wang	1
 Jiaxing Zhang	1
-Jie Yao	1
+Jieung Kim	1
 Jignesh M. Patel	1
 Jilong Xue	1
 Jimmy Lin	1
 Jin Kyu Kim	1
 Jingjun Li	1
 Jingzhu He	1
+Jinquan Dai	1
+Joao Carreira	1
 Johann Schleier-Smith	1
 John Lange	1
 John Shalf	1
@@ -571,10 +636,8 @@ Jonas Traub	1
 Jonguk Kim	1
 Jongyul Kim	1
 Jordi Arjona Aroca	1
-Jorge Quiane	1
 Jorge-Arnulfo Quiané-Ruiz	1
 Jorgen Thelin	1
-Joseph E. Gonzalez	1
 Joseph L. Hellerstein	1
 Joseph Noor	1
 Joseph Seffi Naor	1
@@ -583,10 +646,12 @@ Juan Fumero	1
 Julio López	1
 Jun Woo Park	1
 Jun Xu	1
+Juncheng Fang	1
 Junghwan Rhee	1
 Junichi Tatemura	1
 Justin Ma	1
 K. K. Ramakrishnan	1
+Kai Huang	1
 Kaituo Li	1
 Kalan MacRow	1
 Kallol Dey	1
@@ -594,10 +659,13 @@ Kamal Zellag	1
 Kang G. Shin	1
 Karan Sapra	1
 Karl Aberer	1
+Karthik Narasimhan	1
 Kashi Venkatesh Vishwanath	1
 Katerina Argyraki	1
 Kaushik Rajan	1
 Kaustubh Joshi	1
+Kaveh Kamgar	1
+Ke Wang	1
 Kefei Wang	1
 Keith Marzullo	1
 Keith R. Jackson	1
@@ -618,15 +686,20 @@ Kiran Tati	1
 Kishore Gopalakrishna	1
 Kolton Andrus	1
 Konstantinos Kloudas	1
+Kostis Kaffes	1
 Krishna P. N. Puttaswamy	1
 Krishnamurthy Viswanathan	1
+Kristin Lieber	1
 Krzysztof Rzadca	1
 Kun Suo	1
+Kunal Lillaney	1
 Kunpeng Song	1
 KwanJong Park	1
+Kwang Yong Shin	1
 Kyung Dong Ryu	1
 Lamia Youseff	1
 Lan Wei	1
+Lana Ramjit	1
 Lance Fortnow	1
 Lars Eggert	1
 Lars Roediger	1
@@ -636,17 +709,20 @@ Leana Golubchik	1
 Lei Gao	1
 Lei Tian Tintri	1
 Lenin Ravindranath	1
-Li Zhang	1
 Liang Liang	1
 Liang Liu	1
 Liang Luo	1
 Liang Zheng	1
+Liangfeng Cheng	1
 Libin Liu	1
 Lichao Yin	1
+Lily Sturmann	1
 Limin Wang	1
 Ling Ding	1
 Lingmei Weng	1
 Lintao Zhang	1
+Liqun Shao	1
+Lisa Dunlap	1
 Liuhua Chen	1
 Livio Soares	1
 Lixiang Ao	1
@@ -662,7 +738,6 @@ Luke M. Leslie	1
 Madanlal Musuvathi	1
 Mahadev Konar	1
 Mahadev Satyanarayanan	1
-Mahesh Balakrishnan	1
 Maheswara Rao G. Uma	1
 Mainak Ghosh	1
 Malay K. Ganai	1
@@ -674,7 +749,6 @@ Marcos Vaz Salles	1
 Marcus Carvalho	1
 Margo Seltzer	1
 Mark Goldstein	1
-Mark Oskin	1
 Mark Spear	1
 Marko Vukolić	1
 Markos Fountoulakis	1
@@ -686,6 +760,7 @@ Mayank Pundir	1
 Meg Walraed-Sullivan	1
 Meikel Poess	1
 Mengying Guo	1
+Mert Toslali	1
 Mia Primorac	1
 Michael Armbrust	1
 Michael Bailey	1
@@ -693,7 +768,6 @@ Michael Ferdman	1
 Michael J. Carey	1
 Michael J. Freedman	1
 Michael Stonebraker	1
-Michael Swift	1
 Michael Wei	1
 Michael Whittaker	1
 Miguel Peón-Quirós	1
@@ -702,15 +776,18 @@ Mike O'Connor	1
 Mike Ovsiannikov	1
 Milind Kulkarni	1
 Milo Polte	1
+Min Lv	1
 Minchen Yu	1
 Ming Chen	1
 Minlan Yu	1
+Minsoo Thigpen	1
 Mithuna Thottethodi	1
 Mohamed Mohamed	1
 Mohammad Alian	1
 Mohammad M. Hossain	1
 Moussa Ehsan	1
 Muhammad Bilal	1
+Muhammad Wajahat	1
 Muhammed Uluyol	1
 Muhuan Huang	1
 Mukil Kesavan	1
@@ -720,6 +797,7 @@ Mustafa Uysal	1
 Mythili Vutukuru	1
 Nachiappan Nagappan	1
 Nadav Amit	1
+Nader Shakibay Senobari	1
 Nam Sung Kim	1
 Nathan Beckmann	1
 Nathan Roberts	1
@@ -727,6 +805,7 @@ Naveen Kr. Sharma	1
 Naveen Somasundaram	1
 Navendu Jain	1
 Navneet Potti	1
+Neeraja J. Yadwadkar	1
 Nick Lanham	1
 Nicola Onose	1
 Nicolas Bonvin	1
@@ -741,29 +820,33 @@ Nupur Kothari	1
 Odej Kao	1
 Oriana Riva	1
 Orion Hodson	1
-Orran Krieger	1
 Owen O'Malley	1
 Pallavi Joshi	1
+Panagiotis Garefalakis	1
 Paolo Costa	1
 Paolo Viotti	1
+Patrick Nicholson	1
+Patrick P. C. Lee	1
 Paul Ellenbogen	1
 Pawel Janus	1
-Pedro Las-Casas	1
+Pedro Fonseca	1
 Peipei Wang	1
+Peizhen Guo	1
 Peng Wang	1
 Pengcheng Xiong	1
 Pengfei Zuo	1
 Pengtao Xie	1
 Peter Desnoyers	1
-Peter Pietzuch	1
 Phanindra Ganti	1
 Philbert Lin	1
+Philip Brisk	1
 Pieter Abbeel	1
 Pijika Watcharapichat	1
 Pilar González-Férez	1
 Pinar Tözün	1
 Ping Yu	1
 Pouria Pirzadeh	1
+Pradeep Dogga	1
 Pradeep Ganesan	1
 Pradeep J. Shetty	1
 Pratap Subrahmanyam	1
@@ -771,7 +854,9 @@ Prateek Sharma	1
 Priyanka Naik	1
 Priyanka Tembey	1
 Purushotham Bangalore	1
+Puyuan Yang	1
 Qi Chen	1
+Qi Lu	1
 Qian Lin	1
 Qiang Fu	1
 Qiang Xu	1
@@ -783,8 +868,6 @@ Qixiao Liu	1
 Qixin Gao	1
 Qizhen Zhang	1
 Quinlan Jung	1
-R. Barber	1
-R. Mueller	1
 Rachit Agarwal	1
 Radhika Niranjan Mysore	1
 Rafael Pasquin	1
@@ -793,36 +876,44 @@ Rahul Urgaonkar	1
 Raimondas Kiveris	1
 Raja Appuswamy	1
 Raja R. Sambasivan	1
+Raja Sambasivan	1
 Rajesh Venkatasubramanian	1
 Ramana Kompella	1
+Ramesh Chandra	1
 Ramesh Subramonian	1
-Randal Burns	1
 Ranjita Bhagwan	1
 Rasekh Rifaat	1
+Rathijit Sen	1
 Raul Castro Fernandez	1
 Ravi Pandya	1
 Raymond Cheng	1
+Raymond Chi-Wing Wong	1
 Rebecca Shapley	1
 Rebecca Smith	1
 Rebecca Taft	1
 Renato Marroquín	1
-Rene Mueller	1
 Reza Karimi	1
 Ricardo Koller	1
 Rich Wolski	1
 Richa Meherwal	1
 Richard Li	1
+Richard Liaw	1
+Richard Megginson	1
 Richard P. Spillane	1
 Robert Evans	1
 Robert Sumi	1
 Rodrigo Rodrigues	1
 Roger Wattenhofer	1
+Romil Bhardwaj	1
+Ronald Barber	1
 Rong Chen	1
 Roxana Geambasu	1
 Roy H. Campbell	1
 Rubao Lee	1
+Rui Li	1
 Ruichuan Chen	1
 Russell Sears	1
+Ryan Stutsman	1
 Ryousei Takano	1
 Sadeka Islam	1
 Sagar Dixit	1
@@ -841,6 +932,7 @@ Sangmin Lee	1
 Sanjay Radia	1
 Sara Alspaugh	1
 Sara Bainbridge	1
+Saravanan Thirumuruganathan	1
 Sarit Mukherjee	1
 Scott Rixner	1
 Sean McDirmid	1
@@ -852,14 +944,18 @@ Sergey Bykov	1
 Sergey Grizan	1
 Sethuraman Subbiah	1
 Seungryoul Maeng	1
+Seyyed Ahmad Javadi	1
 Shakeel Butt	1
 Shan Lu	1
 Shane Canon	1
+Shaoqi Wang	1
 Sharad Agarwal	1
 Sharad Mehrotra	1
 Sharanya Bathey	1
 Shenghuo Zhu	1
+Shengsheng Huang	1
 Shi Lu	1
+Shi Qiao	1
 ShiQing Ma	1
 Shin-Yeh Tsai	1
 Shinpei Kato	1
@@ -867,18 +963,22 @@ Shirshanka Das	1
 Shreyas Cholia	1
 Shrikar Archak	1
 Shriram Rajagopalan	1
+Shucheng Wang	1
 Shunde Cao	1
+Shuyang Liu	1
 Siddharth Seth	1
 Sifan Liu	1
 Silvio Lattanzi	1
 Simon Zhang	1
+Siqi Liu	1
 Smriti R. Ramakrishnan	1
-Song Jiang	1
-Soo-Mook Moon	1
+Sonika Jindal	1
 Soudeh Ghorbani	1
 Soumyarupa De	1
+Soundar Srinivasan	1
 Sourav Sikdar	1
 Spyridon Papageorgiou	1
+Srihari Radhakrishnan	1
 Srikumar Venugopal	1
 Srinivas Aiyar	1
 Sriram Govindan	1
@@ -893,6 +993,7 @@ Stephen Tu	1
 Steven D. Gribble	1
 Steven Y. Ko	1
 Subbu Subramaniam	1
+Sudhir Darbha	1
 Sudipta Sengupta	1
 Sudipto Das	1
 Suman Nath	1
@@ -912,14 +1013,15 @@ Tej Chajed	1
 Teodor Moldovan	1
 Thanasis G. Papaioannou	1
 Theo Gkountouvas	1
-Theophilus Benson	1
 Thomas Anderson	1
 Thomas Graves	1
 Thomas Heinze	1
 Thomas Moyer	1
 Thomas Pasquier	1
+Thomas Wenisch	1
 Thorsten Strufe	1
 Tian Guo	1
+Tian Zhang	1
 Till Westmann	1
 Tim Kraska	1
 Timothy Hunter	1
@@ -933,16 +1035,16 @@ Trishal Patel	1
 Tudor Marian	1
 Uday Kale	1
 Umut A. Acar	1
-V. Raman	1
+Vaastav Anand	1
 Vahab Mirrokni	1
 Varun Gupta	1
-Vasily Tarasov	1
 Vassilis J. Tsotras	1
 Venkatanathan Varadarajan	1
 Vibhor Rastogi	1
 Victor Chudnovsky	1
 Victoria Lopez Morales	1
 Vijay Vasudevan	1
+Vijayshankar Raman	1
 Viktor Rosenfeld	1
 Vinayak Borkar	1
 Vincenzo Maffione	1
@@ -950,34 +1052,41 @@ Vinh The Lam	1
 Vinod Ganapathy	1
 Vinod Kumar Vavilapalli	1
 Volker Hilt	1
-W. Wilcke	1
 Waleed Reda	1
 Walfredo Cirne	1
 Walker White	1
 Warren Shen	1
+Wei Chen	1
 Wei Lin	1
-Wei Wang	1
 Wei Ye	1
 Wei-Chiu Chuang	1
 Weigang Li	1
+Weipeng Lin	1
 Wencong Xiao	1
 Wenfei Wu	1
+Wenjun Hu	1
 Wenlong Ma	1
 William Aiello	1
 William R. Marczak	1
 William Scott	1
+Winfried Wilcke	1
 Wittawat Tantisiriroj	1
 Wojciech Golab	1
+Wolf Honore	1
 Wolfgang Richter	1
 Xavier Deguillard	1
+Xianyan Jia	1
+Xiao Yan	1
 Xiaobin She	1
-Xiaobo Zhou	1
+Xiaocui Sun	1
 Xiaodan Wang	1
 Xiaodong Zhang	1
 Xiaoen Ju	1
+Xiaolin Wang	1
 Xiaoming Li	1
 Xiaoqiao Meng	1
 Xin Pan	1
+Xin Qiu	1
 Xing Lin	1
 Xingbo Wu	1
 Xinhao Yuan	1
@@ -985,25 +1094,35 @@ Xue Liu	1
 Xuechen Zhang	1
 Xuetian Weng	1
 Xusheng Chen	1
+Yan Wan	1
 Yan Zhai	1
+Yan Zhu	1
 Yandong Wang	1
 Yanfeng Zhang	1
 Yang Chen	1
 Yang Tang	1
+Yang Wang	1
 Yangchun Fu	1
 Yanjie Gao	1
 Yannis Sfakianakis	1
+Yanzhang Wang	1
 Yao Chen	1
 Yao Lu	1
+Yao Zhang	1
 YaoZu Dong	1
 Yaochen Hu	1
 Yaoliang Yu	1
 Yating Wang	1
+Yifan Hou	1
+Yiheng Wang	1
 Yin Huai	1
 Ying Yan	1
 Ying Zhang	1
 Yingchun Yang	1
+Yingwei Luo	1
 Yingyi Bu	1
+Yitian Zou	1
+Yiwen Zhu	1
 Yiying Zhang	1
 Yizhou Shan	1
 Yong Wang	1
@@ -1018,28 +1137,44 @@ Yu Hua	1
 Yu-Ju Hong	1
 Yuan Zhong	1
 Yuankai Guo	1
+Yuanyuan Dong	1
 Yuanyuan Sun	1
 Yuanzhen Ji	1
 Yubin Xia	1
+Yuchong Hu	1
 Yue Jin	1
 Yufei Gu	1
+Yuhao Yang	1
 Yun Chi	1
 Yun Mao	1
 YunHong Jiang	1
+Yunchuan Zheng	1
 Yungang Bao	1
 Yunjing Xu	1
 Yuqing Zhu	1
 Yushi Wang	1
 Yusuke Suzuki	1
 Yutaro Hayakawa	1
+Zachary Zimmerman	1
 Zbigniew Jerzak	1
 Zhe Wu	1
 Zhen Xiao	1
 Zhen Zhang	1
+Zhenlin Wang	1
 Zhenman Fang	1
+Zhenyu Zhou	1
 Zhi Yang	1
 Zhibin Yu	1
+Zhichao Li	1
+Zhicheng Yin	1
+Zhijun Wang	1
+Zhilin Zhang	1
 Zhiqiang Lin	1
 Zhixiong Niu	1
+Zhong Shao	1
+Zhongwei Li	1
 Zhongxin Guo	1
+Zhongyuan Wu	1
 Zhuoyue Liu	1
+Ziyi Lu	1
+Zoi Kaoudi	1

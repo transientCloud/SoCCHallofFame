@@ -47,7 +47,7 @@ Randomized Algorithms for Dynamic Storage Load-Balancing
 Liang Liu, Lance Fortnow, Jin Li, Yating Wang, Jun Xu
 
 CQSTR: Securing Cross-Tenant Applications with Cloud Containers
-Yan Zhai, Lichao Yin, Jeffrey Chase, Thomas Ristenpart, Michael Swift
+Yan Zhai, Lichao Yin, Jeffrey Chase, Thomas Ristenpart, Michael M. Swift
 
 Radiatus: a Shared-Nothing Server-Side Web Architecture
 Raymond Cheng, William Scott, Paul Ellenbogen, Jon Howell, Franziska Roesner, Arvind Krishnamurthy, Thomas Anderson
@@ -59,7 +59,7 @@ Privacy Preserving Collaboration in Bring-Your-Own-Apps
 Sangmin Lee, Deepak Goel, Edmund L. Wong, Asim Kadav, Mike Dahlin
 
 Disciplined Inconsistency with Consistency Types
-Brandon Holt, James Bornholt, Irene Zhang, Dan Ports, Mark Oskin, Luis Ceze
+Brandon Holt, James Bornholt, Irene Zhang, Dan R. K. Ports, Mark Oskin, Luis Ceze
 
 Towards Weakly Consistent Local Storage Systems
 Ji-Yong Shin, Mahesh Balakrishnan, Tudor Marian, Jakub Szefer, Hakim Weatherspoon

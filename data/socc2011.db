@@ -23,7 +23,7 @@ CloudNaaS: a cloud networking platform for enterprise applications
 Theophilus Benson, Aditya Akella, Anees Shaikh, Sambit Sahu
 
 YCSB++: benchmarking and performance debugging advanced features in scalable table stores
-Swapnil Patil, Milo Polte, Kai Ren, Wittawat Tantisiriroj, Lin Xiao, Julio López, Garth Gibson, Adam Fuchs, Billie Rinaldi
+Swapnil Patil, Milo Polte, Kai Ren, Wittawat Tantisiriroj, Lin Xiao, Julio López, Garth A. Gibson, Adam Fuchs, Billie Rinaldi
 
 Silverline: toward data confidentiality in storage-intensive cloud applications
 Krishna P. N. Puttaswamy, Christopher Kruegel, Ben Y. Zhao
@@ -44,7 +44,7 @@ ActiveSLA: a profit-oriented admission control framework for database-as-a-servi
 Pengcheng Xiong, Yun Chi, Shenghuo Zhu, Junichi Tatemura, Calton Pu, Hakan HacigümüŞ
 
 Orleans: cloud computing for everyone
-Sergey Bykov, Alan Geller, Gabriel Kliot, James R. Larus, Ravi Pandya, Jorgen Thelin
+Sergey Bykov, Alan Geller, Gabriel Kliot, James Larus, Ravi Pandya, Jorgen Thelin
 
 PipeCloud: using causality to overcome speed-of-light delays in cloud-based disaster recovery
 Timothy Wood, H. Andrés Lagar-Cavilla, K. K. Ramakrishnan, Prashant Shenoy, Jacobus Van der Merwe

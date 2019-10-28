@@ -1,0 +1,116 @@
+Coupling Decentralized Key-Value Stores with Erasure Coding
+Liangfeng Cheng, Yuchong Hu, Patrick P. C. Lee
+
+Agni: An Efficient Dual-access File System over Object Storage
+Kunal Lillaney, Vasily Tarasov, David Pease, Randal Burns
+
+MME-FaaS Cloud-Native Control for Mobile Networks
+Sonika Jindal, Robert Ricci
+
+Cartel: A System for Collaborative Transfer Learning at the Edge
+Harshit Daga, Patrick Nicholson, Ada Gavrilovska, Diego Lugones
+
+Hotspot Mitigations for the Masses
+Fabien Hermenier, Aditya Ramesh, Abhinay Nagpal, Himanshu Shukla, Ramesh Chandra
+
+HyperSched: Dynamic Resource Reallocation for Model Development on a Deadline
+Richard Liaw, Romil Bhardwaj, Lisa Dunlap, Yitian Zou, Alexey Tumanov, Joseph Gonzalez, Ion Stoica
+
+Characterizing and Synthesizing Task Dependencies of Data-Parallel Jobs in Alibaba Cloud
+Huangshi Tian, Yunchuan Zheng, Wei Wang
+
+Matrix Profile XIV: Scaling Time Series Motif Discovery with GPUs to Break a Quintillion Pairwise Comparisons a Day and Beyond
+Zachary Zimmerman, Kaveh Kamgar, Nader Shakibay Senobari, Yan Zhu, Brian Crites, Gareth Funning, Philip Brisk, Eamonn Keogh
+
+Sifter: Scalable Sampling for Distributed Traces, without Feature Engineering
+Pedro Las-Casas, Giorgi Papakerashvili, Vaastav Anand, Jonathan Mace
+
+Grasper: A High Performance Distributed System for OLAP on Property Graphs
+Hongzhi Chen, Changji Li, Juncheng Fang, Chenghuan Huang, James Cheng, Jian Zhang, Yifan Hou, Xiao Yan
+
+WormSpace: A Modular Foundation for Simple, Verifiable Distributed Systems
+Ji-Yong Shin, Jieung Kim, Wolf Honore, Hernan Vanzetto, Srihari Radhakrishnan, Mahesh Balakrishnan, Zhong Shao
+
+RapidCDC: Leveraging Duplicate Locality to Accelerate Chunking in CDC-based Deduplication Systems
+Fan Ni, Song Jiang
+
+BigDL: A Distributed Deep Learning Framework for Big Data
+Jinquan Dai, Yiheng Wang, Xin Qiu, Ding Ding, Yao Zhang, Yanzhang Wang, Xianyan Jia, Li Zhang, Yan Wan, Zhichao Li, Jiao Wang, Shengsheng Huang, Zhongyuan Wu, Yang Wang, Yuhao Yang, Bowen She, Dongjie Shi, Qi Lu, Kai Huang, Guoqiong Song
+
+BurScale: Using Burstable Instances for Cost-Effective Autoscaling in the Public Cloud
+Ataollah Fatahi Baarzi, Timothy Zhu, Bhuvan Urgaonkar
+
+Scavenger: A Black-Box Batch Workload Resource Manager for Improving Utilization in Cloud Environments
+Seyyed Ahmad Javadi, Amoghavarsha Suresh, Muhammad Wajahat, Anshul Gandhi
+
+Seamless Offloading of Web App Computations From Mobile Device to Edge Clouds via HTML5 Web Worker Migration
+Hyuk-Jin Jeong, Chang Hyun Shin, Kwang Yong Shin, Hyeon-Jae Lee, Soo-Mook Moon
+
+NEPTUNE: Scheduling Suspendable Tasks for Unified Stream/Batch Applications
+Panagiotis Garefalakis, Konstantinos Karanasos, Peter Pietzuch
+
+Analysis of and Optimization for Write-dominated Hybrid Storage Nodes in Cloud
+Shuyang Liu, Shucheng Wang, Qiang Cao, Ziyi Lu, Hong Jiang, Jie Yao, Yuanyuan Dong, Puyuan Yang
+
+Pigeon: an Effective Distributed, Hierarchical Datacenter Job Scheduler
+Zhijun Wang, Huiyang Li, Zhongwei Li, Xiaocui Sun, Jia Rao, Hao Che, Hong Jiang
+
+Reverb: Speculative Debugging for Web Applications
+Ravi Netravali, James Mickens
+
+Repeatable Oblivious Shuffling of Large Outsourced Data Blocks
+Zhilin Zhang, Ke Wang, Weipeng Lin, Ada Wai-Chee Fu, Raymond Chi-Wing Wong
+
+Centralized Core-granular Scheduling for Serverless Functions
+Kostis Kaffes, Neeraja Yadwadkar, Christos Kozyrakis
+
+Libra and the Art of Task Sizing in Big-Data Analytic Systems
+Rui Li, Peizhen Guo, Bo Hu, Wenjun Hu
+
+Perceptual Compression for Video Storage and Processing Systems
+Amrita Mazumdar, Brandon Haynes, Magdalena Balazinska, Luis Ceze, Alvin Cheung, Mark Oskin
+
+pRedis: Penalty and Locality Aware Memory Allocation in Redis
+Cheng Pan, Yingwei Luo, Xiaolin Wang, Zhenlin Wang
+
+HP-Mapper: A High Performance Storage Driver for Docker Containers
+Fan Guo, Yongkun Li, Min Lv, Yinlong Xu, John Lui
+
+DCUDA: Dynamic GPU Scheduling with Live Migration Support
+Fan Guo, Yongkun Li, John Lui, Yinlong Xu
+
+An Automated, Cross-layer Instrumentation Framework for Diagnosing Performance Problems in Distributed Applications
+Emre Ates, Lily Sturmann, Mert Toslali, Orran Krieger, Richard Megginson, Ayse Coskun, Raja Sambasivan
+
+Pufferfish: Container-driven Elastic Memory Management for Data-intensive Applications
+Wei Chen, Aidi Pi, Shaoqi Wang, Xiaobo Zhou
+
+Cirrus: a Serverless Framework for End-to-end ML Workflows
+Joao Carreira, Pedro Fonseca, Alexey Tumanov, Andrew Zhang, Randy Katz
+
+Software Data Planes: You Can't Always Spin to Win
+Hossein Golestani, Amirhossein Mirhosseini, Thomas Wenisch
+
+A System-Wide Debugging Assistant Powered by Natural Language Processing
+Pradeep Dogga, Karthik Narasimhan, Anirudh Sivaraman, Ravi Netravali
+
+Acorn: Aggressive Result Caching in Distributed Data Processing Frameworks
+Lana Ramjit, Matteo Interlandi, Eugene Wu, Ravi Netravali
+
+Narrowing the Gap Between Serverless and its State with Storage Functions
+Tian Zhang, Dong Xie, Feifei Li, Ryan Stutsman
+
+Griffon: Reasoning about Job Anomalies with Unlabeled Data in Cloud-based Platforms
+Liqun Shao, Yiwen Zhu, Siqi Liu, Abhiram Eswaran, Kristin Lieber, Janhavi Mahajan, Minsoo Thigpen, Sudhir Darbha, Subru Krishnan, Soundar Srinivasan, Carlo Curino, Konstantinos Karanasos
+
+TagSniff: Simplified Big Data Debugging for Dataflow Jobs
+Bertty Contreras, Jorge Quiane, Zoi Kaoudi, Saravanan Thirumuruganathan
+
+PerfDebug: Performance Debugging of Computation Skew in Dataflow Systems
+Jason Teoh, Muhammad Ali Gulzar, Guoqing Harry Xu, Miryung Kim
+
+Composing SDN Controller Enhancements with Mozart
+Zhenyu Zhou, Theophilus Benson 
+
+Peregrine: Workload Optimization for Cloud Query Engines
+Alekh Jindal, Hiren Patel, Abhishek Roy, Shi Qiao, Zhicheng Yin, Rathijit Sen, Subru Krishnan

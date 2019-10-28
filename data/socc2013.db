@@ -5,7 +5,7 @@ On fault resilience of OpenStack
 Xiaoen Ju, Livio Soares, Kang G. Shin, Kyung Dong Ryu, Dilma Da Silva
 
 COLO: COarse-grained LOck-stepping virtual machines for non-stop service
-YaoZu Dong, Wei Ye, YunHong Jiang, Ian Pratt, ShiQing Ma, Jian Li, HaiBing Guan
+YaoZu Dong, Wei Ye, YunHong Jiang, Ian Pratt, ShiQing Ma, Jian Li, Haibing Guan
 
 Hierarchical scheduling for diverse datacenter workloads
 Arka A. Bhattacharya, David Culler, Eric Friedman, Ali Ghodsi, Scott Shenker, Ion Stoica
@@ -20,7 +20,7 @@ Small is better: avoiding latency traps in virtualized data centers
 Yunjing Xu, Michael Bailey, Brian Noble, Farnam Jahanian
 
 Go, server, go!: parallel computing with moving servers
-R. Barber, G. Lohman, R. Mueller, I. Pandis, V. Raman, W. Wilcke
+Ronald Barber, Guy Lohman, Rene Mueller, Ippokratis Pandis, Vijayshankar Raman, Winfried Wilcke
 
 Virtual network diagnosis as a service
 Wenfei Wu, Guohui Wang, Aditya Akella, Anees Shaikh

@@ -1,5 +1,5 @@
 Orpheus: Efficient Distributed Machine Learning via System and Algorithm Co-design
-Pengtao Xie, Jin Kyu Kim, Qirong Ho, Yaoliang Yu, Eric Xing
+Pengtao Xie, Jin Kyu Kim, Qirong Ho, Yaoliang Yu, Eric P. Xing
 
 Dynamic and Decentralized Global Analytics via Machine Learning
 Hao Wang, Di Niu, Baochun Li
@@ -89,7 +89,7 @@ DC-DRF: Adaptive Multi-Resource Sharing at Public Cloud Scale
 Ian A. Kash, Greg O'Shea, Stavros Volos
 
 Fast and Accurate Load Balancing for Geo-Distributed Storage Systems
-Kirill L. Bogdanov, Waleed Reda, Gerald Q. Maguire Jr., Dejan Kostić, Marco Canini
+Kirill Bogdanov, Waleed Reda, Gerald Q. Maguire Jr., Dejan Kostić, Marco Canini
 
 IONN: Incremental Offloading of Neural Network Computations from Mobile Devices to Edge Servers
 Hyuk-Jin Jeong, Hyeon-Jae Lee, Chang Hyun Shin, Soo-Mook Moon

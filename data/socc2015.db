@@ -44,7 +44,7 @@ Domino: understanding wide-area, asynchronous event causality in web application
 Ding Li, James Mickens, Suman Nath, Lenin Ravindranath
 
 Microsoft azure SQL database telemetry
-Willis Lang, Frank Bertsch, David J. DeWitt, Nigel Ellis
+Willis Lang, Frank Bertsch, David DeWitt, Nigel Ellis
 
 Zorro: zero-cost reactive failure recovery in distributed graph processing
 Mayank Pundir, Luke M. Leslie, Indranil Gupta, Roy H. Campbell
@@ -77,7 +77,7 @@ Response time service level agreements for cloud-hosted web applications
 Hiranya Jayathilaka, Chandra Krintz, Rich Wolski
 
 SpotOn: a batch computing service for the spot market
-Supreeth Subramanya, Tian Guo, Prateek Sharma, David Irwin, Prashant Shenoy
+Supreeth Shastri, Tian Guo, Prateek Sharma, David Irwin, Prashant Shenoy
 
 Energy proportionality and workload consolidation for latency-critical applications
 George Prekas, Mia Primorac, Adam Belay, Christos Kozyrakis, Edouard Bugnion

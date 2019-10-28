@@ -104,7 +104,7 @@ Occupy the cloud: distributed computing for the 99%
 Eric Jonas, Qifan Pu, Shivaram Venkataraman, Ion Stoica, Benjamin Recht
 
 Selecting the best VM across multiple public clouds: a data-driven performance modeling approach
-Neeraja J. Yadwadkar, Bharath Hariharan, Joseph E. Gonzalez, Burton Smith, Randy H. Katz
+Neeraja Yadwadkar, Bharath Hariharan, Joseph Gonzalez, Burton Smith, Randy Katz
 
 AidOps: a data-driven provisioning of high-availability services in cloud
 Diego Lugones, Jordi Arjona Aroca, Yue Jin, Alessandra Sala, Volker Hilt
@@ -128,7 +128,7 @@ A scalable distributed spatial index for the internet-of-things
 Anand Padmanabha Iyer, Ion Stoica
 
 ALOHA-KV: high performance read-only and write-only distributed transactions
-Hua Fan, Wojciech Golab, Charles B. Morrey, III
+Hua Fan, Wojciech Golab, Charles B. Morrey
 
 Analysis of TPC-DS: the first standard benchmark for SQL-based big data systems
 Meikel Poess, Tilmann Rabl, Hans-Arno Jacobsen

@@ -17,7 +17,7 @@ How consistent is your cloud application?
 Kamal Zellag, Bettina Kemme
 
 Heterogeneity and dynamicity of clouds at scale: Google trace analysis
-Charles Reiss, Alexey Tumanov, Gregory R. Ganger, Randy H. Katz, Michael A. Kozuch
+Charles Reiss, Alexey Tumanov, Gregory R. Ganger, Randy Katz, Michael A. Kozuch
 
 Using vector interfaces to deliver millions of IOPS from a networked key-value storage server
 Vijay Vasudevan, Michael Kaminsky, David G. Andersen
@@ -26,7 +26,7 @@ Chronos: predictable low latency for data center applications
 Rishi Kapoor, George Porter, Malveeka Tewari, Geoffrey M. Voelker, Amin Vahdat
 
 Bridging the tenant-provider gap in cloud services
-Virajith Jalaparti, Hitesh Ballani, Paolo Costa, Thomas Karagiannis, Ant Rowstron
+Virajith Jalaparti, Hitesh Ballani, Paolo Costa, Thomas Karagiannis, Antony Rowstron
 
 Using batteries to reduce the power costs of internet-scale distributed networks
 Darshan S. Palasamudram, Ramesh K. Sitaraman, Bhuvan Urgaonkar, Rahul Urgaonkar
@@ -68,7 +68,7 @@ A case for dual stack virtualization: consolidating HPC and commodity applicatio
 Brian Kocoloski, Jiannan Ouyang, John Lange
 
 True elasticity in multi-tenant data-intensive compute clusters
-Ganesh Ananthanarayanan, Christopher Douglas, Raghu Ramakrishnan, Sriram Rao, Ion Stoica
+Ganesh Ananthanarayanan, Chris Douglas, Raghu Ramakrishnan, Sriram Rao, Ion Stoica
 
 alsched: algebraic scheduling of mixed workloads in heterogeneous clouds
 Alexey Tumanov, James Cipar, Gregory R. Ganger, Michael A. Kozuch
