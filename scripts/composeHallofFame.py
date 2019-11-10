@@ -1,5 +1,5 @@
 #!/usr/bin/python
-__author__ = 'shastri@umass.edu'
+__author__ = 'shastri@utexas.edu'
 
 import argparse
 from datetime import datetime

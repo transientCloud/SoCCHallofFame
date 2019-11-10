@@ -1,0 +1,873 @@
+Benchmarking cloud serving systems with YCSB
+2423
+
+Apache Hadoop YARN: yet another resource negotiator
+1591
+
+Heterogeneity and dynamicity of clouds at scale: Google trace analysis
+697
+
+Virtual machine power metering and provisioning
+618
+
+CloudScale: elastic resource scaling for multi-tenant cloud systems
+577
+
+Characterizing cloud computing hardware reliability
+476
+
+RACS: a case for cloud storage diversity
+476
+
+Incoop: MapReduce for incremental computations
+354
+
+Nephele/PACTs: a programming model and execution framework for web-scale analytical processing
+335
+
+Towards automatic optimization of MapReduce programs
+326
+
+Tachyon: Reliable, Memory Speed Storage for Cluster Computing Frameworks
+308
+
+G-Store: a scalable data store for transactional multi key access in the cloud
+276
+
+No one (cluster) size fits all: automatic cluster sizing for data-intensive analytics
+257
+
+Robust and flexible power-proportional storage
+247
+
+CloudNaaS: a cloud networking platform for enterprise applications
+247
+
+Characterizing, modeling, and generating workload spikes for stateful services
+213
+
+Cuanta: quantifying effects of shared on-chip resource interference for consolidated virtual machines
+213
+
+Scale-up vs scale-out for Hadoop: time to rethink?
+183
+
+YCSB++: benchmarking and performance debugging advanced features in scalable table stores
+181
+
+Skew-resistant parallel processing of feature-extracting scientific user-defined functions
+179
+
+Modeling and synthesizing task placement constraints in Google compute clusters
+177
+
+Chronos: predictable low latency for data center applications
+172
+
+Stateful bulk processing for incremental analytics
+170
+
+Query optimization for massively parallel data processing
+167
+
+More for your money: exploiting performance heterogeneity in public clouds
+160
+
+Tales of the Tail: Hardware, OS, and Application-level Sources of Tail Latency
+156
+
+Automated software testing as a service
+152
+
+Comet: batched stream processing for data intensive distributed computing
+145
+
+Google fusion tables: data management, integration and collaboration in the cloud
+145
+
+Occupy the cloud: distributed computing for the 99%
+141
+
+A self-organized, fault-tolerant and scalable replication scheme for cloud storage
+140
+
+Bridging the tenant-provider gap in cloud services
+131
+
+Making cloud intermediate data fault-tolerant
+130
+
+An operating system for multicore and clouds: mechanisms and implementation
+129
+
+Small-world datacenters
+125
+
+PrIter: a distributed framework for prioritized iterative computations
+125
+
+Orleans: cloud computing for everyone
+121
+
+Silverline: toward data confidentiality in storage-intensive cloud applications
+118
+
+Trojan data layouts: right shoes for a running elephant
+116
+
+Reservation-based Scheduling: If You're Late Don't Blame Us!
+113
+
+Sailfish: a framework for large scale data processing
+107
+
+Orbe: scalable causal consistency using dependency matrices and physical clocks
+107
+
+GentleRain: Cheap and Scalable Causal Consistency with Physical Clocks
+107
+
+Hierarchical scheduling for diverse datacenter workloads
+103
+
+Logic and lattices for distributed programming
+101
+
+Pesto: online storage performance management in virtualized datacenters
+96
+
+Scheduling jobs across geo-distributed datacenters
+96
+
+Cake: enabling high-level SLOs on shared storage systems
+95
+
+Improving large graph processing on partitioned graphs in the cloud
+93
+
+Themis: an I/O-efficient MapReduce
+90
+
+Balancing reducer skew in MapReduce workloads using progressive sampling
+90
+
+Automating model search for large scale machine learning
+89
+
+Declarative automated cloud resource orchestration
+88
+
+GraM: scaling graph computation to the trillions
+88
+
+Pico replication: a high availability framework for middleboxes
+87
+
+Tarcil: reconciling scheduling speed and quality in large shared clusters
+87
+
+ActiveSLA: a profit-oriented admission control framework for database-as-a-service providers
+85
+
+What Bugs Live in the Cloud? A Study of 3000+ Issues in Cloud Systems
+85
+
+Lithium: virtual machine storage for the cloud
+84
+
+Managed communication and consistency for fast data-parallel iterative analytics
+83
+
+Wrangler: Predictable and Faster Jobs using Fewer Resources
+82
+
+Small cache, big effect: provable load balancing for randomly partitioned cluster services
+80
+
+Switching the optical divide: fundamental challenges for hybrid electrical/optical datacenter networks
+79
+
+The potential dangers of causal consistency and an explicit solution
+78
+
+Why Does the Cloud Stop Computing?: Lessons from Hundreds of Service Outages
+77
+
+Natjam: design and evaluation of eviction policies for supporting priorities and deadlines in mapreduce clusters
+75
+
+Adaptive Stream Processing using Dynamic Batch Sizing
+75
+
+To cloud or not to cloud?: musings on costs and viability
+74
+
+Generalized resource allocation for the cloud
+71
+
+SpotOn: a batch computing service for the spot market
+71
+
+PriorityMeister: Tail Latency QoS for Shared Networked Storage
+70
+
+Opportunistic flooding to improve TCP transmit performance in virtualized clouds
+68
+
+Scaling the mobile millennium system in the cloud
+67
+
+True elasticity in multi-tenant data-intensive compute clusters
+65
+
+Zeta: scheduling interactive services with partial execution
+63
+
+Long-term SLOs for reclaimed cloud computing resources
+63
+
+Defining future platform requirements for e-Science clouds
+61
+
+Using batteries to reduce the power costs of internet-scale distributed networks
+60
+
+Differential virtual time (DVT): rethinking I/O service differentiation for virtual machines
+58
+
+Improving per-node efficiency in the datacenter with new OS abstractions
+58
+
+Small is better: avoiding latency traps in virtualized data centers
+57
+
+When the network crumbles: an empirical study of cloud network failures and their impact on services
+56
+
+Limplock: understanding the impact of limpware on scale-out cloud systems
+55
+
+On fault resilience of OpenStack
+54
+
+Hybris: Robust Hybrid Cloud Storage
+54
+
+CoScan: cooperative scan sharing in the cloud
+53
+
+PipeCloud: using causality to overcome speed-of-light delays in cloud-based disaster recovery
+53
+
+PerfScope: Practical Online Server Performance Bug Inference in Production Cloud Computing Infrastructures
+52
+
+TR-Spark: Transient Computing for Big Data Analytics
+52
+
+Online parameter optimization for elastic data stream processing
+51
+
+Transparent, Live Migration of a Software-Defined Network
+49
+
+Understanding and mitigating the impact of load imbalance in the memory caching tier
+48
+
+Open source cloud technologies
+47
+
+Connected Components in MapReduce and Beyond
+47
+
+MemcachedGPU: scaling-up scale-out key-value stores
+47
+
+Selecting the best VM across multiple public clouds: a data-driven performance modeling approach
+47
+
+Using vector interfaces to deliver millions of IOPS from a networked key-value storage server
+46
+
+Programming and Runtime Support to Blaze FPGA Accelerator Deployment at Datacenter Scale
+46
+
+Dynamic Performance Profiling of Cloud Caches
+45
+
+How consistent is your cloud application?
+43
+
+Addressing the straggler problem for iterative convergent parallel ML
+43
+
+COLO: COarse-grained LOck-stepping virtual machines for non-stop service
+41
+
+Distributed Autonomous Virtual Resource Management in Datacenters Using Finite-Markov Decision Process
+41
+
+Energy proportionality and workload consolidation for latency-critical applications
+41
+
+DOT: a matrix model for analyzing, optimizing and deploying software for big data analytics in distributed systems
+40
+
+Scalable lineage capture for debugging DISC analytics
+40
+
+Job-aware Scheduling in Eagle: Divide and Stick to Your Probes
+40
+
+Distributed shared persistent memory
+40
+
+Towards a comprehensive performance model of virtual machine live migration
+39
+
+OS-Sommelier: memory-only operating system fingerprinting in the cloud
+37
+
+Probabilistic deduplication for cluster-based storage systems
+37
+
+vBalance: using interrupt load balance to improve I/O performance for SMP virtual machines
+36
+
+Software-defined caching: managing caches in multi-tenant data centers
+36
+
+An efficient multi-tier tablet server storage architecture
+35
+
+All aboard the Databus!: Linkedin's scalable consistent change data capture platform
+35
+
+alsched: algebraic scheduling of mixed workloads in heterogeneous clouds
+34
+
+SLAQ: quality-driven scheduling for distributed machine learning
+34
+
+Merlin: Application- and Platform-aware Resource Allocation in Consolidated Server Systems
+33
+
+Consistency without borders
+32
+
+Exploiting iterative-ness for parallel ML computations
+31
+
+ShardFS vs. IndexFS: replication vs. caching strategies for distributed metadata management in cloud storage systems
+31
+
+Follow the Sun through the Clouds: Application Migration for Geographically Shifting Workloads
+31
+
+Optasia: A Relational Platform for Efficient Large-Scale Video Analytics
+30
+
+C-Hint: An Effective and Reliable Cache Management for RDMA-Accelerated Key-Value Stores
+29
+
+Virtual network diagnosis as a service
+28
+
+Ako: Decentralised Deep Learning with Partial Gradient Exchange
+28
+
+Hermes: clustering users in large-scale e-mail services
+27
+
+EventWave: programming model and runtime support for tightly-coupled elastic cloud applications
+27
+
+Response time service level agreements for cloud-hosted web applications
+27
+
+APUS: fast and scalable paxos on RDMA
+27
+
+BestConfig: tapping the performance potential of systems via automatic configuration tuning
+27
+
+Making time-stepped applications tick in the cloud
+26
+
+Practical whole-system provenance capture
+26
+
+Zorro: zero-cost reactive failure recovery in distributed graph processing
+25
+
+SNC-Meister: Admitting More Tenants with Tail Latency SLOs
+25
+
+Romano: autonomous storage management using performance prediction in multi-tenant datacenters
+24
+
+Policy expressivity in the Anzere personal cloud
+23
+
+A case for dual stack virtualization: consolidating HPC and commodity applications in the cloud
+23
+
+Paxos Quorum Leases: Fast Reads Without Sacrificing Writes
+23
+
+Memory-efficient groupby-aggregate using compressed buffer trees
+22
+
+Memory footprint matters: efficient equi-join algorithms for main memory data processing
+22
+
+On data skewness, stragglers, and MapReduce progress indicators
+22
+
+DaRPC: Data Center RPC
+21
+
+CoolProvision: underprovisioning datacenter cooling
+21
+
+Trading Timeliness and Accuracy in Geo-Distributed Streaming Analytics
+21
+
+Remote memory in the age of fast networks
+21
+
+ALIAS: scalable, decentralized label assignment for data centers
+20
+
+vPipe: Piped I/O Offloading for Efficient Data Movement in Virtualized Clouds
+20
+
+Algebricks: a data model-agnostic compiler backend for big data languages
+20
+
+PerfOrator: eloquent performance models for Resource Optimization
+20
+
+vTube: efficient streaming of virtual appliances over last-mile networks
+19
+
+ATAC: Ambient Temperature-Aware Capping for Power Efficient Datacenters
+19
+
+Achieving cost-efficient, data-intensive computing in the cloud
+19
+
+Availability Knob: Flexible User-Defined Availability in the Cloud
+19
+
+Adaptive Caching in Big SQL using the HDFS Cache
+19
+
+PipeGen: Data Pipe Generator for Hybrid Analytics
+19
+
+jVerbs: ultra-low latency for data center applications
+18
+
+Automating Failure Testing Research at Internet Scale
+18
+
+Centiman: elastic, high performance optimistic concurrency control by watermarking
+17
+
+Characterizing Private Clouds: A Large-Scale Empirical Analysis of Enterprise Clusters
+17
+
+STYX: Stream Processing with Trustworthy Cloud-based Execution
+17
+
+STeP: Scalable Tenant Placement for Managing Database-as-a-Service Deployments
+17
+
+Parameter Hub: a Rack-Scale Parameter Server for Distributed Deep Neural Network Training
+17
+
+ReproLite: A Lightweight Tool to Quickly Reproduce Hard System Bugs
+16
+
+The Case for RackOut: Scalable Data Serving Using Rack-Scale Systems
+16
+
+The case for PIQL: a performance insightful query language
+15
+
+Automatic management of partitioned, replicated search services
+15
+
+Vanguard: Increasing Server Efficiency via Workload Isolation in the Storage I/O Path
+15
+
+Potassium: penetration testing as a service
+15
+
+Evaluating the impact of fine-scale burstiness on cloud elasticity
+15
+
+CQSTR: Securing Cross-Tenant Applications with Cloud Containers
+15
+
+Principled workflow-centric tracing of distributed systems
+15
+
+Incentivizing self-capping to increase cloud utilization
+15
+
+Optimized on-demand data streaming from sensor nodes
+15
+
+Sprocket: A Serverless Video Processing Framework
+15
+
+Disciplined Inconsistency with Consistency Types
+14
+
+The Freeze-Frame File System
+14
+
+Towards automatic parameter tuning of stream processing systems
+14
+
+DIMMer: A case for turning off DIMMs in clouds
+13
+
+The Case for Drill-Ready Cloud Computing
+13
+
+Understanding issue correlations: a case study of the Hadoop system
+13
+
+vFair: latency-aware fair storage scheduling via per-IO cost-based differentiation
+13
+
+Forecasting the cost of processing multi-join queries via hashing for main-memory databases
+13
+
+Expeditus: Congestion-aware Load Balancing in Clos Data Center Networks
+13
+
+Optimizing Interactive Development of Data-Intensive Applications
+13
+
+SLO-aware colocation of data center tasks based on instantaneous processor requirements
+13
+
+Leveraging sharding in the design of scalable replication protocols
+12
+
+FastLane: making short flows shorter with agile drop notification
+12
+
+A machine learning approach to live migration modeling
+12
+
+UNO: uniflying host and smart NIC offload for flexible packet processing
+12
+
+Kairos: Preemptive Data Center Scheduling Without Runtime Estimates
+12
+
+The nearest replica can be farther than you think
+11
+
+Best Paper	RAMinate: Hypervisor-based Virtualization for Hybrid Main Memory Systems
+11
+
+Untangling cluster management with Helix
+10
+
+Designing good algorithms for MapReduce and beyond
+10
+
+Microsoft azure SQL database telemetry
+10
+
+HotSpot: automated server hopping in cloud spot markets
+10
+
+On the Control Plane of a Self-service Cloud Platform
+9
+
+Reducing replication bandwidth for distributed document databases
+9
+
+HIL: Designing an Exokernel for the Data Center
+9
+
+LSM-tree managed storage for large-scale key-value store
+9
+
+A robust partitioning scheme for ad-hoc query workloads
+9
+
+Latency reduction and load balancing in coded storage systems
+9
+
+Automated debugging in data-intensive scalable computing
+9
+
+WorkloadCompactor: reducing datacenter cost while providing tail latency SLO guarantees
+9
+
+Distributed resource management across process boundaries
+9
+
+Unikernels as Processes
+9
+
+IONN: Incremental Offloading of Neural Network Computations from Mobile Devices to Edge Servers
+9
+
+Automating Distributed Partial Aggregation
+8
+
+Domino: understanding wide-area, asynchronous event causality in web applications
+8
+
+PBSE: a robust path-based speculative execution for degraded-network tail tolerance in data-parallel frameworks
+8
+
+A scalable distributed spatial index for the internet-of-things
+8
+
+Analysis of TPC-DS: the first standard benchmark for SQL-based big data systems
+8
+
+Multi-Query Optimization in Wide-Area Streaming Analytics
+8
+
+HyperNF: building a high performance, high utilization and fair NFV platform
+7
+
+Stratus: cost-aware container scheduling in the public cloud
+7
+
+Vagabond: Dynamic Network Endpoint Reconfiguration in Virtualized Environments
+6
+
+Database high availability using SHADOW systems
+6
+
+Using data transformations for low-latency time series analysis
+6
+
+A Fault-Tolerant Framework for Asynchronous Iterative Computations in Cloud Environments
+6
+
+Radiatus: a Shared-Nothing Server-Side Web Architecture
+6
+
+Preserving I/O prioritization in virtualized OSes
+6
+
+Early Scheduling in Parallel State Machine Replication
+6
+
+Overload Control for Scaling WeChat Microservices
+6
+
+Wharf: Sharing Docker Images in a Distributed File System
+6
+
+The Elasticity and Plasticity in Semi-Containerized Co-locating Cloud Workload: a View from Alibaba Trace
+6
+
+Grandet: A Unified, Economical Object Store for Web Applications
+5
+
+Search lookaside buffer: efficient caching for index data structures
+5
+
+GLoop: an event-driven runtime for consolidating GPGPU applications
+5
+
+STYX: a trusted and accelerated hierarchical SSL key management and distribution system for cloud based CDN application
+5
+
+QFrag: distributed graph search via subgraph isomorphism
+5
+
+Secure data types: a simple abstraction for confidentiality-preserving data analytics
+5
+
+A Case for Virtualizing Persistent Memory
+4
+
+Tutamen: A Next-Generation Secret-Storage Platform
+4
+
+VNToR: Network Virtualization at the Top-of-Rack Switch
+4
+
+FSP: towards flexible synchronous parallel framework for expectation-maximization based algorithms on cloud
+4
+
+Prism: a proxy architecture for datacenter networks
+4
+
+An experimental comparison of complex object implementations for big data systems
+4
+
+AidOps: a data-driven provisioning of high-availability services in cloud
+4
+
+ALOHA-KV: high performance read-only and write-only distributed transactions
+4
+
+RoGUE: RDMA over Generic Unconverged Ethernet
+4
+
+Henge: Intent-driven Multi-Tenant Stream Processing
+4
+
+Debugging Distributed Systems with Why-Across-Time Provenance
+4
+
+SifrDB: A Unified Solution for Write-Optimized Key-Value Stores in Large Datacenter
+4
+
+Fluxo: a system for internet service programming by non-expert developers
+3
+
+dJay: enabling high-density multi-tenancy for cloud gaming servers with dynamic cost-benefit GPU load balancing
+3
+
+Privacy Preserving Collaboration in Bring-Your-Own-Apps
+3
+
+Architectural implications on the performance and cost of graph analytics systems
+3
+
+Uncertainty Propagation in Data Processing Systems
+3
+
+GraPU: Accelerate Streaming Graph Analysis through Preprocessing Buffered Updates
+3
+
+Fast and Accurate Load Balancing for Geo-Distributed Storage Systems
+3
+
+ApproxJoin: Approximate Distributed Joins
+3
+
+Cloud Index Tracking: Enabling Predictable Costs in Cloud Spot Markets
+3
+
+Cascade Mapping: Optimizing Memory Efficiency for Flash-based Key-value Caching
+3
+
+An Efficient Memory-Mapped Key-Value Store for Flash Storage
+3
+
+BASS: Improving I/O Performance for Cloud Block Storage via Byte-Addressable Storage Stack
+2
+
+Towards Weakly Consistent Local Storage Systems
+2
+
+ReStream: Accelerating Backtesting and Stream Replay with Serial-Equivalent Parallel Processing
+2
+
+Mithril: mining sporadic associations for cache prefetching
+2
+
+DLSH: a distribution-aware LSH scheme for approximate nearest neighbor query in cloud computing
+2
+
+Processing Java UDFs in a C++ environment
+2
+
+Sketches of space: ownership accounting for shared storage
+2
+
+Orpheus: Efficient Distributed Machine Learning via System and Algorithm Co-design
+2
+
+Elasecutor: Elastic Executor Scheduling in Data Analytics Systems
+2
+
+Mutant: Balancing Storage Cost and Latency in LSM-Tree Data Stores
+2
+
+Netco: Cache and I/O Management for Analytics over Disaggregated Stores
+2
+
+DC-DRF: Adaptive Multi-Resource Sharing at Public Cloud Scale
+2
+
+Harnessing data loss with forgetful data structures
+1
+
+No data left behind: real-time insights from a complex data ecosystem
+1
+
+CapNet: security and least authority in a capability-enabled cloud
+1
+
+Workload analysis and caching strategies for search advertising systems
+1
+
+A policy-based system for dynamic scaling of virtual machine memory reservations
+1
+
+On-demand virtualization for live migration in bare metal cloud
+1
+
+Continuum: A Platform for Cost-Aware, Low-Latency Continual Learning
+1
+
+Bolt-On Global Consistency for the Cloud
+1
+
+SDPaxos: Building Efficient Semi-Decentralized Geo-replicated State Machines
+1
+
+libVNF: Building Virtual Network Functions Made Easy
+1
+
+VIP: Virtual Performance-State for Efficient Power Management of Virtual Machines
+1
+
+RIOS: Runtime Integrated Optimizer for Spark
+1
+
+ScootR: Scaling R Dataframes on Dataflow Systems
+1
+
+DScope: Detecting Real-World Data Corruption Hang Bugs in Cloud Server Systems
+1
+
+Tolerating business failures in hosted applications
+0
+
+Go, server, go!: parallel computing with moving servers
+0
+
+DSwitch: a dual mode direct and network attached disk
+0
+
+Randomized Algorithms for Dynamic Storage Load-Balancing
+0
+
+Trustable virtual machine scheduling in a cloud
+0
+
+Polygravity: traffic usage accountability via coarse-grained measurements in multi-tenant data centers
+0
+
+Dynamic and Decentralized Global Analytics via Machine Learning
+0
+
+Weighted Sampling of Execution Traces: Capturing More Needles and Less Hay
+0
+
+I Heard It through the Firewall: Exploiting Cloud Management Services as an Information Leakage Channel
+0
+
+Pay One, Get Hundreds for Free: Reducing Cloud Costs through Shared Query Execution
+0
+

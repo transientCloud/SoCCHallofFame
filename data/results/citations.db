@@ -1,0 +1,1164 @@
+An operating system for multicore and clouds: mechanisms and implementation
+129
+David Wentzlaff, Charles Gruenwald, Nathan Beckmann, Kevin Modzelewski, Adam Belay, Lamia Youseff, Jason Miller, Anant Agarwal
+
+Lithium: virtual machine storage for the cloud
+84
+Jacob Gorm Hansen, Eric Jul
+
+Differential virtual time (DVT): rethinking I/O service differentiation for virtual machines
+58
+Mukil Kesavan, Ada Gavrilovska, Karsten Schwan
+
+Virtual machine power metering and provisioning
+618
+Aman Kansal, Feng Zhao, Jie Liu, Nupur Kothari, Arka A. Bhattacharya
+
+Stateful bulk processing for incremental analytics
+170
+Dionysios Logothetis, Christopher Olston, Benjamin Reed, Kevin C. Webb, Ken Yocum
+
+Comet: batched stream processing for data intensive distributed computing
+145
+Bingsheng He, Mao Yang, Zhenyu Guo, Rishan Chen, Bing Su, Wei Lin, Lidong Zhou
+
+Skew-resistant parallel processing of feature-extracting scientific user-defined functions
+179
+YongChul Kwon, Magdalena Balazinska, Bill Howe, Jerome Rolia
+
+Hermes: clustering users in large-scale e-mail services
+27
+Thomas Karagiannis, Christos Gkantsidis, Dushyanth Narayanan, Antony Rowstron
+
+Defining future platform requirements for e-Science clouds
+61
+Lavanya Ramakrishnan, Keith R. Jackson, Shane Canon, Shreyas Cholia, John Shalf
+
+Fluxo: a system for internet service programming by non-expert developers
+3
+Emre Kiciman, Benjamin Livshits, Madanlal Musuvathi, Kevin C. Webb
+
+Nephele/PACTs: a programming model and execution framework for web-scale analytical processing
+335
+Dominic Battré, Stephan Ewen, Fabian Hueske, Odej Kao, Volker Markl, Daniel Warneke
+
+The case for PIQL: a performance insightful query language
+15
+Michael Armbrust, Nick Lanham, Stephen Tu, Armando Fox, Michael J. Franklin, David A. Patterson
+
+Towards automatic optimization of MapReduce programs
+326
+Shivnath Babu
+
+Benchmarking cloud serving systems with YCSB
+2423
+Brian F. Cooper, Adam Silberstein, Erwin Tam, Raghu Ramakrishnan, Russell Sears
+
+Automated software testing as a service
+152
+George Candea, Stefan Bucur, Cristian Zamfir
+
+G-Store: a scalable data store for transactional multi key access in the cloud
+276
+Sudipto Das, Divyakant Agrawal, Amr El Abbadi
+
+Google fusion tables: data management, integration and collaboration in the cloud
+145
+Hector Gonzalez, Alon Halevy, Christian S. Jensen, Anno Langen, Jayant Madhavan, Rebecca Shapley, Warren Shen
+
+Making cloud intermediate data fault-tolerant
+130
+Steven Y. Ko, Imranul Hoque, Brian Cho, Indranil Gupta
+
+Characterizing cloud computing hardware reliability
+476
+Kashi Venkatesh Vishwanath, Nachiappan Nagappan
+
+A self-organized, fault-tolerant and scalable replication scheme for cloud storage
+140
+Nicolas Bonvin, Thanasis G. Papaioannou, Karl Aberer
+
+Robust and flexible power-proportional storage
+247
+Hrishikesh Amur, James Cipar, Varun Gupta, Gregory R. Ganger, Michael A. Kozuch, Karsten Schwan
+
+RACS: a case for cloud storage diversity
+476
+Hussam Abu-Libdeh, Lonnie Princehouse, Hakim Weatherspoon
+
+Characterizing, modeling, and generating workload spikes for stateful services
+213
+Peter Bodik, Armando Fox, Michael J. Franklin, Michael I. Jordan, David A. Patterson
+
+An efficient multi-tier tablet server storage architecture
+35
+Richard P. Spillane, Pradeep J. Shetty, Erez Zadok, Sagar Dixit, Shrikar Archak
+
+Small-world datacenters
+125
+Ji-Yong Shin, Bernard Wong, Emin Gün Sirer
+
+Modeling and synthesizing task placement constraints in Google compute clusters
+177
+Bikash Sharma, Victor Chudnovsky, Joseph L. Hellerstein, Rasekh Rifaat, Chita R. Das
+
+DOT: a matrix model for analyzing, optimizing and deploying software for big data analytics in distributed systems
+40
+Yin Huai, Rubao Lee, Simon Zhang, Cathy H. Xia, Xiaodong Zhang
+
+CloudScale: elastic resource scaling for multi-tenant cloud systems
+577
+Zhiming Shen, Sethuraman Subbiah, Xiaohui Gu, John Wilkes
+
+ALIAS: scalable, decentralized label assignment for data centers
+20
+Meg Walraed-Sullivan, Radhika Niranjan Mysore, Malveeka Tewari, Ying Zhang, Keith Marzullo, Amin Vahdat
+
+Incoop: MapReduce for incremental computations
+354
+Pramod Bhatotia, Alexander Wieder, Rodrigo Rodrigues, Umut A. Acar, Rafael Pasquin
+
+CloudNaaS: a cloud networking platform for enterprise applications
+247
+Theophilus Benson, Aditya Akella, Anees Shaikh, Sambit Sahu
+
+YCSB++: benchmarking and performance debugging advanced features in scalable table stores
+181
+Swapnil Patil, Milo Polte, Kai Ren, Wittawat Tantisiriroj, Lin Xiao, Julio López, Garth A. Gibson, Adam Fuchs, Billie Rinaldi
+
+Silverline: toward data confidentiality in storage-intensive cloud applications
+118
+Krishna P. N. Puttaswamy, Christopher Kruegel, Ben Y. Zhao
+
+CoScan: cooperative scan sharing in the cloud
+53
+Xiaodan Wang, Christopher Olston, Anish Das Sarma, Randal Burns
+
+Query optimization for massively parallel data processing
+167
+Sai Wu, Feng Li, Sharad Mehrotra, Beng Chin Ooi
+
+PrIter: a distributed framework for prioritized iterative computations
+125
+Yanfeng Zhang, Qixin Gao, Lixin Gao, Cuirong Wang
+
+Policy expressivity in the Anzere personal cloud
+23
+Oriana Riva, Qin Yin, Dejan Juric, Ercan Ucan, Timothy Roscoe
+
+ActiveSLA: a profit-oriented admission control framework for database-as-a-service providers
+85
+Pengcheng Xiong, Yun Chi, Shenghuo Zhu, Junichi Tatemura, Calton Pu, Hakan HacigümüŞ
+
+Orleans: cloud computing for everyone
+121
+Sergey Bykov, Alan Geller, Gabriel Kliot, James Larus, Ravi Pandya, Jorgen Thelin
+
+PipeCloud: using causality to overcome speed-of-light delays in cloud-based disaster recovery
+53
+Timothy Wood, H. Andrés Lagar-Cavilla, K. K. Ramakrishnan, Prashant Shenoy, Jacobus Van der Merwe
+
+No one (cluster) size fits all: automatic cluster sizing for data-intensive analytics
+257
+Herodotos Herodotou, Fei Dong, Shivnath Babu
+
+Pesto: online storage performance management in virtualized datacenters
+96
+Ajay Gulati, Ganesha Shanmuganathan, Irfan Ahmad, Carl Waldspurger, Mustafa Uysal
+
+Making time-stepped applications tick in the cloud
+26
+Tao Zou, Guozhang Wang, Marcos Vaz Salles, David Bindel, Alan Demers, Johannes Gehrke, Walker White
+
+Trojan data layouts: right shoes for a running elephant
+116
+Alekh Jindal, Jorge-Arnulfo Quiané-Ruiz, Jens Dittrich
+
+Cuanta: quantifying effects of shared on-chip resource interference for consolidated virtual machines
+213
+Sriram Govindan, Jie Liu, Aman Kansal, Anand Sivasubramaniam
+
+Small cache, big effect: provable load balancing for randomly partitioned cluster services
+80
+Bin Fan, Hyeontaek Lim, David G. Andersen, Michael Kaminsky
+
+Opportunistic flooding to improve TCP transmit performance in virtualized clouds
+68
+Sahan Gamage, Ardalan Kangarlou, Ramana Rao Kompella, Dongyan Xu
+
+Improving per-node efficiency in the datacenter with new OS abstractions
+58
+Barret Rhoden, Kevin Klues, David Zhu, Eric Brewer
+
+Declarative automated cloud resource orchestration
+88
+Changbin Liu, Boon Thau Loo, Yun Mao
+
+Automatic management of partitioned, replicated search services
+15
+Florian Leibert, Jake Mannix, Jimmy Lin, Babak Hamadani
+
+Scaling the mobile millennium system in the cloud
+67
+Timothy Hunter, Teodor Moldovan, Matei Zaharia, Samy Merzgui, Justin Ma, Michael J. Franklin, Pieter Abbeel, Alexandre M. Bayen
+
+To cloud or not to cloud?: musings on costs and viability
+74
+Yao Chen, Radu Sion
+
+Switching the optical divide: fundamental challenges for hybrid electrical/optical datacenter networks
+79
+Hamid Hajabdolali Bazzaz, Malveeka Tewari, Guohui Wang, George Porter, T. S. Eugene Ng, David G. Andersen, Michael Kaminsky, Michael A. Kozuch, Amin Vahdat
+
+Logic and lattices for distributed programming
+101
+Neil Conway, William R. Marczak, Peter Alvaro, Joseph M. Hellerstein, David Maier
+
+vBalance: using interrupt load balance to improve I/O performance for SMP virtual machines
+36
+Luwei Cheng, Cho-Li Wang
+
+Improving large graph processing on partitioned graphs in the cloud
+93
+Rishan Chen, Mao Yang, Xuetian Weng, Byron Choi, Bingsheng He, Xiaoming Li
+
+Sailfish: a framework for large scale data processing
+107
+Sriram Rao, Raghu Ramakrishnan, Adam Silberstein, Mike Ovsiannikov, Damian Reeves
+
+OS-Sommelier: memory-only operating system fingerprinting in the cloud
+37
+Yufei Gu, Yangchun Fu, Aravind Prakash, Zhiqiang Lin, Heng Yin
+
+How consistent is your cloud application?
+43
+Kamal Zellag, Bettina Kemme
+
+Heterogeneity and dynamicity of clouds at scale: Google trace analysis
+697
+Charles Reiss, Alexey Tumanov, Gregory R. Ganger, Randy Katz, Michael A. Kozuch
+
+Using vector interfaces to deliver millions of IOPS from a networked key-value storage server
+46
+Vijay Vasudevan, Michael Kaminsky, David G. Andersen
+
+Chronos: predictable low latency for data center applications
+172
+Rishi Kapoor, George Porter, Malveeka Tewari, Geoffrey M. Voelker, Amin Vahdat
+
+Bridging the tenant-provider gap in cloud services
+131
+Virajith Jalaparti, Hitesh Ballani, Paolo Costa, Thomas Karagiannis, Antony Rowstron
+
+Using batteries to reduce the power costs of internet-scale distributed networks
+60
+Darshan S. Palasamudram, Ramesh K. Sitaraman, Bhuvan Urgaonkar, Rahul Urgaonkar
+
+Zeta: scheduling interactive services with partial execution
+63
+Yuxiong He, Sameh Elnikety, James Larus, Chenyu Yan
+
+Themis: an I/O-efficient MapReduce
+90
+Alexander Rasmussen, Vinh The Lam, Michael Conley, George Porter, Rishi Kapoor, Amin Vahdat
+
+Cake: enabling high-level SLOs on shared storage systems
+95
+Andrew Wang, Shivaram Venkataraman, Sara Alspaugh, Randy Katz, Ion Stoica
+
+Generalized resource allocation for the cloud
+71
+Anshul Rai, Ranjita Bhagwan, Saikat Guha
+
+Balancing reducer skew in MapReduce workloads using progressive sampling
+90
+Smriti R. Ramakrishnan, Garret Swart, Aleksey Urmanov
+
+Probabilistic deduplication for cluster-based storage systems
+37
+Davide Frey, Anne-Marie Kermarrec, Konstantinos Kloudas
+
+All aboard the Databus!: Linkedin's scalable consistent change data capture platform
+35
+Shirshanka Das, Chavdar Botev, Kapil Surlaker, Bhaskar Ghosh, Balaji Varadarajan, Sunil Nagaraj, David Zhang, Lei Gao, Jemiah Westerman, Phanindra Ganti, Boris Shkolnik, Sajid Topiwala, Alexander Pachev, Naveen Somasundaram, Subbu Subramaniam
+
+Untangling cluster management with Helix
+10
+Kishore Gopalakrishna, Shi Lu, Zhen Zhang, Adam Silberstein, Kapil Surlaker, Ramesh Subramonian, Bob Schulman
+
+More for your money: exploiting performance heterogeneity in public clouds
+160
+Benjamin Farley, Ari Juels, Venkatanathan Varadarajan, Thomas Ristenpart, Kevin D. Bowers, Michael M. Swift
+
+Romano: autonomous storage management using performance prediction in multi-tenant datacenters
+24
+Nohhyun Park, Irfan Ahmad, David J. Lilja
+
+The potential dangers of causal consistency and an explicit solution
+78
+Peter Bailis, Alan Fekete, Ali Ghodsi, Joseph M. Hellerstein, Ion Stoica
+
+A case for dual stack virtualization: consolidating HPC and commodity applications in the cloud
+23
+Brian Kocoloski, Jiannan Ouyang, John Lange
+
+True elasticity in multi-tenant data-intensive compute clusters
+65
+Ganesh Ananthanarayanan, Chris Douglas, Raghu Ramakrishnan, Sriram Rao, Ion Stoica
+
+alsched: algebraic scheduling of mixed workloads in heterogeneous clouds
+34
+Alexey Tumanov, James Cipar, Gregory R. Ganger, Michael A. Kozuch
+
+Designing good algorithms for MapReduce and beyond
+10
+Foto N. Afrati, Magdalena Balazinska, Anish Das Sarma, Bill Howe, Semih Salihoglu, Jeffrey D. Ullman
+
+Open source cloud technologies
+47
+Salman A. Baset
+
+Pico replication: a high availability framework for middleboxes
+87
+Shriram Rajagopalan, Dan Williams, Hani Jamjoom
+
+On fault resilience of OpenStack
+54
+Xiaoen Ju, Livio Soares, Kang G. Shin, Kyung Dong Ryu, Dilma Da Silva
+
+COLO: COarse-grained LOck-stepping virtual machines for non-stop service
+41
+YaoZu Dong, Wei Ye, YunHong Jiang, Ian Pratt, ShiQing Ma, Jian Li, Haibing Guan
+
+Hierarchical scheduling for diverse datacenter workloads
+103
+Arka A. Bhattacharya, David Culler, Eric Friedman, Ali Ghodsi, Scott Shenker, Ion Stoica
+
+Apache Hadoop YARN: yet another resource negotiator
+1591
+Vinod Kumar Vavilapalli, Arun C. Murthy, Chris Douglas, Sharad Agarwal, Mahadev Konar, Robert Evans, Thomas Graves, Jason Lowe, Hitesh Shah, Siddharth Seth, Bikas Saha, Carlo Curino, Owen O'Malley, Sanjay Radia, Benjamin Reed, Eric Baldeschwieler
+
+Natjam: design and evaluation of eviction policies for supporting priorities and deadlines in mapreduce clusters
+75
+Brian Cho, Muntasir Rahman, Tej Chajed, Indranil Gupta, Cristina Abad, Nathan Roberts, Philbert Lin
+
+Small is better: avoiding latency traps in virtualized data centers
+57
+Yunjing Xu, Michael Bailey, Brian Noble, Farnam Jahanian
+
+Virtual network diagnosis as a service
+28
+Wenfei Wu, Guohui Wang, Aditya Akella, Anees Shaikh
+
+jVerbs: ultra-low latency for data center applications
+18
+Patrick Stuedi, Bernard Metzler, Animesh Trivedi
+
+Orbe: scalable causal consistency using dependency matrices and physical clocks
+107
+Jiaqing Du, Sameh Elnikety, Amitabha Roy, Willy Zwaenepoel
+
+Leveraging sharding in the design of scalable replication protocols
+12
+Hussam Abu-Libdeh, Robbert van Renesse, Ymir Vigfusson
+
+Understanding and mitigating the impact of load imbalance in the memory caching tier
+48
+Yu-Ju Hong, Mithuna Thottethodi
+
+Limplock: understanding the impact of limpware on scale-out cloud systems
+55
+Thanh Do, Mingzhe Hao, Tanakorn Leesatapornwongsa, Tiratat Patana-anake, Haryadi S. Gunawi
+
+When the network crumbles: an empirical study of cloud network failures and their impact on services
+56
+Rahul Potharaju, Navendu Jain
+
+vTube: efficient streaming of virtual appliances over last-mile networks
+19
+Yoshihisa Abe, Roxana Geambasu, Kaustubh Joshi, H. Andrés Lagar-Cavilla, Mahadev Satyanarayanan
+
+Scalable lineage capture for debugging DISC analytics
+40
+Dionysios Logothetis, Soumyarupa De, Kenneth Yocum
+
+Memory-efficient groupby-aggregate using compressed buffer trees
+22
+Hrishikesh Amur, Wolfgang Richter, David G. Andersen, Michael Kaminsky, Karsten Schwan, Athula Balachandran, Erik Zawadzki
+
+Memory footprint matters: efficient equi-join algorithms for main memory data processing
+22
+Spyros Blanas, Jignesh M. Patel
+
+Scale-up vs scale-out for Hadoop: time to rethink?
+183
+Raja Appuswamy, Christos Gkantsidis, Dushyanth Narayanan, Orion Hodson, Antony Rowstron
+
+EventWave: programming model and runtime support for tightly-coupled elastic cloud applications
+27
+Wei-Chiu Chuang, Bo Sang, Sunghwan Yoo, Rui Gu, Milind Kulkarni, Charles Killian
+
+Consistency without borders
+32
+Peter Alvaro, Peter Bailis, Neil Conway, Joseph M. Hellerstein
+
+Tolerating business failures in hosted applications
+0
+Jean-Sebastien Legare, Dutch T. Meyer, Mark Spear, Alexandru Totolici, Sara Bainbridge, Kalan MacRow, Robert Sumi, Quinlan Jung, Dennis Tjandra, David Williams-King, William Aiello, Andrew Warfield
+
+Go, server, go!: parallel computing with moving servers
+0
+Ronald Barber, Guy Lohman, Rene Mueller, Ippokratis Pandis, Vijayshankar Raman, Winfried Wilcke
+
+Automating Distributed Partial Aggregation
+8
+Chang Liu, Jiaxing Zhang, Hucheng Zhou, Sean McDirmid, Zhenyu Guo, Thomas Moscibroda
+
+Reservation-based Scheduling: If You're Late Don't Blame Us!
+113
+Carlo Curino, Djellel E. Difallah, Chris Douglas, Subru Krishnan, Raghu Ramakrishnan, Sriram Rao
+
+Transparent, Live Migration of a Software-Defined Network
+49
+Soudeh Ghorbani, Cole Schlesinger, Matthew Monaco, Eric Keller, Matthew Caesar, Jennifer Rexford, David Walker
+
+GentleRain: Cheap and Scalable Causal Consistency with Physical Clocks
+107
+Jiaqing Du, Călin Iorgulescu, Amitabha Roy, Willy Zwaenepoel
+
+Exploiting iterative-ness for parallel ML computations
+31
+Henggang Cui, Alexey Tumanov, Jinliang Wei, Lianghong Xu, Wei Dai, Jesse Haber-Kucharsky, Qirong Ho, Gregory R. Ganger, Phillip B. Gibbons, Garth A. Gibson, Eric P. Xing
+
+Tachyon: Reliable, Memory Speed Storage for Cluster Computing Frameworks
+308
+Haoyuan Li, Ali Ghodsi, Matei Zaharia, Scott Shenker, Ion Stoica
+
+What Bugs Live in the Cloud? A Study of 3000+ Issues in Cloud Systems
+85
+Haryadi S. Gunawi, Mingzhe Hao, Tanakorn Leesatapornwongsa, Tiratat Patana-anake, Thanh Do, Jeffry Adityatama, Kurnia J. Eliazar, Agung Laksono, Jeffrey F. Lukman, Vincentius Martin, Anang D. Satria
+
+PerfScope: Practical Online Server Performance Bug Inference in Production Cloud Computing Infrastructures
+52
+Daniel J. Dean, Hiep Nguyen, Xiaohui Gu, Hui Zhang, Junghwan Rhee, Nipun Arora, Geoff Jiang
+
+Tales of the Tail: Hardware, OS, and Application-level Sources of Tail Latency
+156
+Jialin Li, Naveen Kr. Sharma, Dan R. K. Ports, Steven D. Gribble
+
+On the Control Plane of a Self-service Cloud Platform
+9
+Shakeel Butt, Vinod Ganapathy, Abhinav Srivastava
+
+DIMMer: A case for turning off DIMMs in clouds
+13
+Dongli Zhang, Moussa Ehsan, Michael Ferdman, Radu Sion
+
+Hybris: Robust Hybrid Cloud Storage
+54
+Dan Dobre, Paolo Viotti, Marko Vukolić
+
+The Case for Drill-Ready Cloud Computing
+13
+Tanakorn Leesatapornwongsa, Haryadi S. Gunawi
+
+Merlin: Application- and Platform-aware Resource Allocation in Consolidated Server Systems
+33
+Priyanka Tembey, Ada Gavrilovska, Karsten Schwan
+
+DaRPC: Data Center RPC
+21
+Patrick Stuedi, Animesh Trivedi, Bernard Metzler, Jonas Pfefferle
+
+Adaptive Stream Processing using Dynamic Batch Sizing
+75
+Tathagata Das, Yuan Zhong, Ion Stoica, Scott Shenker
+
+ATAC: Ambient Temperature-Aware Capping for Power Efficient Datacenters
+19
+Sungkap Yeo, Mohammad M. Hossain, Jen-Cheng Huang, Hsien-Hsin S. Lee
+
+Connected Components in MapReduce and Beyond
+47
+Raimondas Kiveris, Silvio Lattanzi, Vahab Mirrokni, Vibhor Rastogi, Sergei Vassilvitskii
+
+Vanguard: Increasing Server Efficiency via Workload Isolation in the Storage I/O Path
+15
+Yannis Sfakianakis, Stelios Mavridis, Anastasios Papagiannis, Spyridon Papageorgiou, Markos Fountoulakis, Manolis Marazakis, Angelos Bilas
+
+Long-term SLOs for reclaimed cloud computing resources
+63
+Marcus Carvalho, Walfredo Cirne, Francisco Brasileiro, John Wilkes
+
+Vagabond: Dynamic Network Endpoint Reconfiguration in Virtualized Environments
+6
+Kallol Dey, Debadatta Mishra, Purushottam Kulkarni
+
+Paxos Quorum Leases: Fast Reads Without Sacrificing Writes
+23
+Iulian Moraru, David G. Andersen, Michael Kaminsky
+
+C-Hint: An Effective and Reliable Cache Management for RDMA-Accelerated Key-Value Stores
+29
+Yandong Wang, Xiaoqiao Meng, Li Zhang, Jian Tan
+
+Distributed Autonomous Virtual Resource Management in Datacenters Using Finite-Markov Decision Process
+41
+Liuhua Chen, Haiying Shen, Karan Sapra
+
+ReproLite: A Lightweight Tool to Quickly Reproduce Hard System Bugs
+16
+Kaituo Li, Pallavi Joshi, Aarti Gupta, Malay K. Ganai
+
+Wrangler: Predictable and Faster Jobs using Fewer Resources
+82
+Neeraja J. Yadwadkar, Ganesh Ananthanarayanan, Randy Katz
+
+vPipe: Piped I/O Offloading for Efficient Data Movement in Virtualized Clouds
+20
+Sahan Gamage, Cong Xu, Ramana Rao Kompella, Dongyan Xu
+
+Dynamic Performance Profiling of Cloud Caches
+45
+Trausti Sæmundsson, Hjortur Bjornsson, Gregory Chockler, Ymir Vigfusson
+
+PriorityMeister: Tail Latency QoS for Shared Networked Storage
+70
+Timothy Zhu, Alexey Tumanov, Michael A. Kozuch, Mor Harchol-Balter, Gregory R. Ganger
+
+Understanding issue correlations: a case study of the Hadoop system
+13
+Jian Huang, Xuechen Zhang, Karsten Schwan
+
+The nearest replica can be farther than you think
+11
+Kirill Bogdanov, Miguel Peón-Quirós, Gerald Q. Maguire Jr., Dejan Kostić
+
+Potassium: penetration testing as a service
+15
+Richard Li, Dallin Abendroth, Xing Lin, Yuankai Guo, Hyun-Wook Baek, Eric Eide, Robert Ricci, Jacobus Van der Merwe
+
+MemcachedGPU: scaling-up scale-out key-value stores
+47
+Tayler H. Hetherington, Mike O'Connor, Tor M. Aamodt
+
+dJay: enabling high-density multi-tenancy for cloud gaming servers with dynamic cost-benefit GPU load balancing
+3
+Sergey Grizan, David Chu, Alec Wolman, Roger Wattenhofer
+
+DSwitch: a dual mode direct and network attached disk
+0
+Quanlu Zhang, Yafei Dai, Lintao Zhang
+
+FastLane: making short flows shorter with agile drop notification
+12
+David Zats, Anand Padmanabha Iyer, Ganesh Ananthanarayanan, Rachit Agarwal, Randy Katz, Ion Stoica, Amin Vahdat
+
+Tarcil: reconciling scheduling speed and quality in large shared clusters
+87
+Christina Delimitrou, Daniel Sanchez, Christos Kozyrakis
+
+Scheduling jobs across geo-distributed datacenters
+96
+Chien-Chun Hung, Leana Golubchik, Minlan Yu
+
+vFair: latency-aware fair storage scheduling via per-IO cost-based differentiation
+13
+Hui Lu, Brendan Saltaformaggio, Ramana Kompella, Dongyan Xu
+
+On data skewness, stragglers, and MapReduce progress indicators
+22
+Emilio Coppa, Irene Finocchi
+
+Forecasting the cost of processing multi-join queries via hashing for main-memory databases
+13
+Feilong Liu, Spyros Blanas
+
+Harnessing data loss with forgetful data structures
+1
+Azza Abouzied, Jay Chen
+
+Software-defined caching: managing caches in multi-tenant data centers
+36
+Ioan Stefanovici, Eno Thereska, Greg O'Shea, Bianca Schroeder, Hitesh Ballani, Thomas Karagiannis, Antony Rowstron, Tom Talpey
+
+Domino: understanding wide-area, asynchronous event causality in web applications
+8
+Ding Li, James Mickens, Suman Nath, Lenin Ravindranath
+
+Microsoft azure SQL database telemetry
+10
+Willis Lang, Frank Bertsch, David DeWitt, Nigel Ellis
+
+Zorro: zero-cost reactive failure recovery in distributed graph processing
+25
+Mayank Pundir, Luke M. Leslie, Indranil Gupta, Roy H. Campbell
+
+Database high availability using SHADOW systems
+6
+Jaemyung Kim, Kenneth Salem, Khuzaima Daudjee, Ashraf Aboulnaga, Xin Pan
+
+Reducing replication bandwidth for distributed document databases
+9
+Lianghong Xu, Andrew Pavlo, Sudipta Sengupta, Jin Li, Gregory R. Ganger
+
+ShardFS vs. IndexFS: replication vs. caching strategies for distributed metadata management in cloud storage systems
+31
+Lin Xiao, Kai Ren, Qing Zheng, Garth A. Gibson
+
+Evaluating the impact of fine-scale burstiness on cloud elasticity
+15
+Sadeka Islam, Srikumar Venugopal, Anna Liu
+
+Centiman: elastic, high performance optimistic concurrency control by watermarking
+17
+Bailu Ding, Lucja Kot, Alan Demers, Johannes Gehrke
+
+Online parameter optimization for elastic data stream processing
+51
+Thomas Heinze, Lars Roediger, Andreas Meister, Yuanzhen Ji, Zbigniew Jerzak, Christof Fetzer
+
+Towards a comprehensive performance model of virtual machine live migration
+39
+Senthil Nathan, Umesh Bellur, Purushottam Kulkarni
+
+Achieving cost-efficient, data-intensive computing in the cloud
+19
+Michael Conley, Amin Vahdat, George Porter
+
+Response time service level agreements for cloud-hosted web applications
+27
+Hiranya Jayathilaka, Chandra Krintz, Rich Wolski
+
+SpotOn: a batch computing service for the spot market
+71
+Supreeth Shastri, Tian Guo, Prateek Sharma, David Irwin, Prashant Shenoy
+
+Energy proportionality and workload consolidation for latency-critical applications
+41
+George Prekas, Mia Primorac, Adam Belay, Christos Kozyrakis, Edouard Bugnion
+
+CoolProvision: underprovisioning datacenter cooling
+21
+Ioannis Manousakis, Íñigo Goiri, Sriram Sankar, Thu D. Nguyen, Ricardo Bianchini
+
+Automating model search for large scale machine learning
+89
+Evan R. Sparks, Ameet Talwalkar, Daniel Haas, Michael J. Franklin, Michael I. Jordan, Tim Kraska
+
+Managed communication and consistency for fast data-parallel iterative analytics
+83
+Jinliang Wei, Wei Dai, Aurick Qiao, Qirong Ho, Henggang Cui, Gregory R. Ganger, Phillip B. Gibbons, Garth A. Gibson, Eric P. Xing
+
+Using data transformations for low-latency time series analysis
+6
+Henggang Cui, Kimberly Keeton, Indrajit Roy, Krishnamurthy Viswanathan, Gregory R. Ganger
+
+GraM: scaling graph computation to the trillions
+88
+Ming Wu, Fan Yang, Jilong Xue, Wencong Xiao, Youshan Miao, Lan Wei, Haoxiang Lin, Yafei Dai, Lidong Zhou
+
+Algebricks: a data model-agnostic compiler backend for big data languages
+20
+Vinayak Borkar, Yingyi Bu, E. Preston Carman Jr., Nicola Onose, Till Westmann, Pouria Pirzadeh, Michael J. Carey, Vassilis J. Tsotras
+
+Why Does the Cloud Stop Computing?: Lessons from Hundreds of Service Outages
+77
+Haryadi S. Gunawi, Mingzhe Hao, Riza O. Suminto, Agung Laksono, Anang D. Satria, Jeffry Adityatama, Kurnia J. Eliazar
+
+Automating Failure Testing Research at Internet Scale
+18
+Peter Alvaro, Kolton Andrus, Chris Sanden, Casey Rosenthal, Ali Basiri, Lorin Hochstein
+
+Characterizing Private Clouds: A Large-Scale Empirical Analysis of Enterprise Clusters
+17
+Ignacio Cano, Srinivas Aiyar, Arvind Krishnamurthy
+
+Availability Knob: Flexible User-Defined Availability in the Cloud
+19
+Mohammad Shahrad, David Wentzlaff
+
+Optasia: A Relational Platform for Efficient Large-Scale Video Analytics
+30
+Yao Lu, Aakanksha Chowdhery, Srikanth Kandula
+
+A Fault-Tolerant Framework for Asynchronous Iterative Computations in Cloud Environments
+6
+Zhigang Wang, Lixin Gao, Yu Gu, Yubin Bao, Ge Yu
+
+Ako: Decentralised Deep Learning with Partial Gradient Exchange
+28
+Pijika Watcharapichat, Victoria Lopez Morales, Raul Castro Fernandez, Peter Pietzuch
+
+Addressing the straggler problem for iterative convergent parallel ML
+43
+Aaron Harlap, Henggang Cui, Wei Dai, Jinliang Wei, Gregory R. Ganger, Phillip B. Gibbons, Garth A. Gibson, Eric P. Xing
+
+Best Paper	RAMinate: Hypervisor-based Virtualization for Hybrid Main Memory Systems
+11
+Takahiro Hirofuchi, Ryousei Takano
+
+A Case for Virtualizing Persistent Memory
+4
+Liang Liang, Rong Chen, Haibo Chen, Yubin Xia, KwanJong Park, Binyu Zang, Haibing Guan
+
+Follow the Sun through the Clouds: Application Migration for Geographically Shifting Workloads
+31
+Zhiming Shen, Qin Jia, Gur-Eyal Sela, Ben Rainero, Weijia Song, Robbert van Renesse, Hakim Weatherspoon
+
+HIL: Designing an Exokernel for the Data Center
+9
+Jason Hennessey, Sahil Tikale, Ata Turk, Emine Ugur Kaynar, Chris Hill, Peter Desnoyers, Orran Krieger
+
+BASS: Improving I/O Performance for Cloud Block Storage via Byte-Addressable Storage Stack
+2
+Hui Lu, Brendan Saltaformaggio, Cong Xu, Umesh Bellur, Dongyan Xu
+
+The Case for RackOut: Scalable Data Serving Using Rack-Scale Systems
+16
+Stanko Novakovic, Alexandros Daglis, Edouard Bugnion, Babak Falsafi, Boris Grot
+
+Grandet: A Unified, Economical Object Store for Web Applications
+5
+Yang Tang, Gang Hu, Xinhao Yuan, Lingmei Weng, Junfeng Yang
+
+Randomized Algorithms for Dynamic Storage Load-Balancing
+0
+Liang Liu, Lance Fortnow, Jin Li, Yating Wang, Jun Xu
+
+CQSTR: Securing Cross-Tenant Applications with Cloud Containers
+15
+Yan Zhai, Lichao Yin, Jeffrey Chase, Thomas Ristenpart, Michael M. Swift
+
+Radiatus: a Shared-Nothing Server-Side Web Architecture
+6
+Raymond Cheng, William Scott, Paul Ellenbogen, Jon Howell, Franziska Roesner, Arvind Krishnamurthy, Thomas Anderson
+
+Tutamen: A Next-Generation Secret-Storage Platform
+4
+Andy Sayler, Taylor Andrews, Matt Monaco, Dirk Grunwald
+
+Privacy Preserving Collaboration in Bring-Your-Own-Apps
+3
+Sangmin Lee, Deepak Goel, Edmund L. Wong, Asim Kadav, Mike Dahlin
+
+Disciplined Inconsistency with Consistency Types
+14
+Brandon Holt, James Bornholt, Irene Zhang, Dan R. K. Ports, Mark Oskin, Luis Ceze
+
+Towards Weakly Consistent Local Storage Systems
+2
+Ji-Yong Shin, Mahesh Balakrishnan, Tudor Marian, Jakub Szefer, Hakim Weatherspoon
+
+The Freeze-Frame File System
+14
+Weijia Song, Theo Gkountouvas, Ken Birman, Qi Chen, Zhen Xiao
+
+Adaptive Caching in Big SQL using the HDFS Cache
+19
+Avrilia Floratou, Nimrod Megiddo, Navneet Potti, Fatma Özcan, Uday Kale, Jan Schmitz-Hermes
+
+ReStream: Accelerating Backtesting and Stream Replay with Serial-Equivalent Parallel Processing
+2
+Johann Schleier-Smith, Erik T. Krogen, Joseph M. Hellerstein
+
+STYX: Stream Processing with Trustworthy Cloud-based Execution
+17
+Julian James Stephen, Savvas Savvides, Vinaitheerthan Sundaram, Masoud Saeida Ardekani, Patrick Eugster
+
+Trading Timeliness and Accuracy in Geo-Distributed Streaming Analytics
+21
+Benjamin Heintz, Abhishek Chandra, Ramesh K. Sitaraman
+
+SNC-Meister: Admitting More Tenants with Tail Latency SLOs
+25
+Timothy Zhu, Daniel S. Berger, Mor Harchol-Balter
+
+STeP: Scalable Tenant Placement for Managing Database-as-a-Service Deployments
+17
+Rebecca Taft, Willis Lang, Jennie Duggan, Aaron J. Elmore, Michael Stonebraker, David DeWitt
+
+Principled workflow-centric tracing of distributed systems
+15
+Raja R. Sambasivan, Ilari Shafer, Jonathan Mace, Benjamin H. Sigelman, Rodrigo Fonseca, Gregory R. Ganger
+
+PerfOrator: eloquent performance models for Resource Optimization
+20
+Kaushik Rajan, Dharmesh Kakadia, Carlo Curino, Subru Krishnan
+
+VNToR: Network Virtualization at the Top-of-Rack Switch
+4
+Jonas Fietz, Sam Whitlock, George Ioannidis, Katerina Argyraki, Edouard Bugnion
+
+Expeditus: Congestion-aware Load Balancing in Clos Data Center Networks
+13
+Peng Wang, Hong Xu, Zhixiong Niu, Dongsu Han, Yongqiang Xiong
+
+Programming and Runtime Support to Blaze FPGA Accelerator Deployment at Datacenter Scale
+46
+Muhuan Huang, Di Wu, Cody Hao Yu, Zhenman Fang, Matteo Interlandi, Tyson Condie, Jason Cong
+
+PipeGen: Data Pipe Generator for Hybrid Analytics
+19
+Brandon Haynes, Alvin Cheung, Magdalena Balazinska
+
+TR-Spark: Transient Computing for Big Data Analytics
+52
+Ying Yan, Yanjie Gao, Yang Chen, Zhongxin Guo, Bole Chen, Thomas Moscibroda
+
+Job-aware Scheduling in Eagle: Divide and Stick to Your Probes
+40
+Pamela Delgado, Diego Didona, Florin Dinu, Willy Zwaenepoel
+
+Optimizing Interactive Development of Data-Intensive Applications
+13
+Matteo Interlandi, Sai Deep Tetali, Muhammad Ali Gulzar, Joseph Noor, Tyson Condie, Miryung Kim, Todd Millstein
+
+FSP: towards flexible synchronous parallel framework for expectation-maximization based algorithms on cloud
+4
+Zhigang Wang, Lixin Gao, Yu Gu, Yubin Bao, Ge Yu
+
+Trustable virtual machine scheduling in a cloud
+0
+Fabien Hermenier, Ludovic Henrio
+
+Search lookaside buffer: efficient caching for index data structures
+5
+Xingbo Wu, Fan Ni, Song Jiang
+
+Architectural implications on the performance and cost of graph analytics systems
+3
+Qizhen Zhang, Hongzhi Chen, Da Yan, James Cheng, Boon Thau Loo, Purushotham Bangalore
+
+Incentivizing self-capping to increase cloud utilization
+15
+Mohammad Shahrad, Cristian Klein, Liang Zheng, Mung Chiang, Erik Elmroth, David Wentzlaff
+
+Mithril: mining sporadic associations for cache prefetching
+2
+Juncheng Yang, Reza Karimi, Trausti Sæmundsson, Avani Wildani, Ymir Vigfusson
+
+GLoop: an event-driven runtime for consolidating GPGPU applications
+5
+Yusuke Suzuki, Hiroshi Yamada, Shinpei Kato, Kenji Kono
+
+APUS: fast and scalable paxos on RDMA
+27
+Cheng Wang, Jianyu Jiang, Xusheng Chen, Ning Yi, Heming Cui
+
+No data left behind: real-time insights from a complex data ecosystem
+1
+Manos Karpathiotakis, Avrilia Floratou, Fatma Özcan, Anastasia Ailamaki
+
+Remote memory in the age of fast networks
+21
+Marcos K. Aguilera, Nadav Amit, Irina Calciu, Xavier Deguillard, Jayneel Gandhi, Pratap Subrahmanyam, Lalith Suresh, Kiran Tati, Rajesh Venkatasubramanian, Michael Wei
+
+CapNet: security and least authority in a capability-enabled cloud
+1
+Anton Burtsev, David Johnson, Josh Kunz, Eric Eide, Jacobus Van der Merwe
+
+LSM-tree managed storage for large-scale key-value store
+9
+Fei Mei, Qiang Cao, Hong Jiang, Lei Tian Tintri
+
+HyperNF: building a high performance, high utilization and fair NFV platform
+7
+Kenichi Yasukata, Felipe Huici, Vincenzo Maffione, Giuseppe Lettieri, Michio Honda
+
+Workload analysis and caching strategies for search advertising systems
+1
+Conglong Li, David G. Andersen, Qiang Fu, Sameh Elnikety, Yuxiong He
+
+Prism: a proxy architecture for datacenter networks
+4
+Yutaro Hayakawa, Lars Eggert, Michio Honda, Douglas Santry
+
+Towards automatic parameter tuning of stream processing systems
+14
+Muhammad Bilal, Marco Canini
+
+STYX: a trusted and accelerated hierarchical SSL key management and distribution system for cloud based CDN application
+5
+Changzheng Wei, Jian Li, Weigang Li, Ping Yu, Haibing Guan
+
+QFrag: distributed graph search via subgraph isomorphism
+5
+Marco Serafini, Gianmarco De Francisci Morales, Georgos Siganos
+
+A robust partitioning scheme for ad-hoc query workloads
+9
+Anil Shanbhag, Alekh Jindal, Samuel Madden, Jorge Quiane, Aaron J. Elmore
+
+DLSH: a distribution-aware LSH scheme for approximate nearest neighbor query in cloud computing
+2
+Yuanyuan Sun, Yu Hua, Xue Liu, Shunde Cao, Pengfei Zuo
+
+SLO-aware colocation of data center tasks based on instantaneous processor requirements
+13
+Pawel Janus, Krzysztof Rzadca
+
+Preserving I/O prioritization in virtualized OSes
+6
+Kun Suo, Yong Zhao, Jia Rao, Luwei Cheng, Xiaobo Zhou, Francis C. M. Lau
+
+A policy-based system for dynamic scaling of virtual machine memory reservations
+1
+Rebecca Smith, Scott Rixner
+
+PBSE: a robust path-based speculative execution for degraded-network tail tolerance in data-parallel frameworks
+8
+Riza O. Suminto, Cesar A. Stuardo, Alexandra Clark, Huan Ke, Tanakorn Leesatapornwongsa, Bo Fu, Daniar H. Kurniawan, Vincentius Martin, Maheswara Rao G. Uma, Haryadi S. Gunawi
+
+Polygravity: traffic usage accountability via coarse-grained measurements in multi-tenant data centers
+0
+Hyunwook Baek, Cheng Jin, Guofei Jiang, Cristian Lumezanu, Jacobus Van der Merwe, Ning Xia, Qiang Xu
+
+Distributed shared persistent memory
+40
+Yizhou Shan, Shin-Yeh Tsai, Yiying Zhang
+
+BestConfig: tapping the performance potential of systems via automatic configuration tuning
+27
+Yuqing Zhu, Jianxun Liu, Mengying Guo, Yungang Bao, Wenlong Ma, Zhuoyue Liu, Kunpeng Song, Yingchun Yang
+
+A machine learning approach to live migration modeling
+12
+Changyeon Jo, Youngsu Cho, Bernhard Egger
+
+Latency reduction and load balancing in coded storage systems
+9
+Yaochen Hu, Yushi Wang, Bang Liu, Di Niu, Cheng Huang
+
+On-demand virtualization for live migration in bare metal cloud
+1
+Jaeseong Im, Jongyul Kim, Jonguk Kim, Seongwook Jin, Seungryoul Maeng
+
+SLAQ: quality-driven scheduling for distributed machine learning
+34
+Haoyu Zhang, Logan Stafman, Andrew Or, Michael J. Freedman
+
+Practical whole-system provenance capture
+26
+Thomas Pasquier, Xueyuan Han, Mark Goldstein, Thomas Moyer, David Eyers, Margo Seltzer, Jean Bacon
+
+Processing Java UDFs in a C++ environment
+2
+Viktor Rosenfeld, Rene Mueller, Pinar Tözün, Fatma Özcan
+
+An experimental comparison of complex object implementations for big data systems
+4
+Sourav Sikdar, Kia Teymourian, Chris Jermaine
+
+Occupy the cloud: distributed computing for the 99%
+141
+Eric Jonas, Qifan Pu, Shivaram Venkataraman, Ion Stoica, Benjamin Recht
+
+Selecting the best VM across multiple public clouds: a data-driven performance modeling approach
+47
+Neeraja Yadwadkar, Bharath Hariharan, Joseph Gonzalez, Burton Smith, Randy Katz
+
+AidOps: a data-driven provisioning of high-availability services in cloud
+4
+Diego Lugones, Jordi Arjona Aroca, Yue Jin, Alessandra Sala, Volker Hilt
+
+Secure data types: a simple abstraction for confidentiality-preserving data analytics
+5
+Savvas Savvides, Julian James Stephen, Masoud Saeida Ardekani, Vinaitheerthan Sundaram, Patrick Eugster
+
+HotSpot: automated server hopping in cloud spot markets
+10
+Supreeth Shastri, David Irwin
+
+UNO: uniflying host and smart NIC offload for flexible packet processing
+12
+Yanfang Le, Hyunseok Chang, Sarit Mukherjee, Limin Wang, Aditya Akella, Michael M. Swift, T. V. Lakshman
+
+Automated debugging in data-intensive scalable computing
+9
+Muhammad Ali Gulzar, Matteo Interlandi, Xueyuan Han, Mingda Li, Tyson Condie, Miryung Kim
+
+Sketches of space: ownership accounting for shared storage
+2
+Jake Wires, Pradeep Ganesan, Andrew Warfield
+
+A scalable distributed spatial index for the internet-of-things
+8
+Anand Padmanabha Iyer, Ion Stoica
+
+ALOHA-KV: high performance read-only and write-only distributed transactions
+4
+Hua Fan, Wojciech Golab, Charles B. Morrey
+
+Analysis of TPC-DS: the first standard benchmark for SQL-based big data systems
+8
+Meikel Poess, Tilmann Rabl, Hans-Arno Jacobsen
+
+Optimized on-demand data streaming from sensor nodes
+15
+Jonas Traub, Sebastian Breß, Tilmann Rabl, Asterios Katsifodimos, Volker Markl
+
+WorkloadCompactor: reducing datacenter cost while providing tail latency SLO guarantees
+9
+Timothy Zhu, Michael A. Kozuch, Mor Harchol-Balter
+
+Distributed resource management across process boundaries
+9
+Lalith Suresh, Peter Bodik, Ishai Menache, Marco Canini, Florin Ciucu
+
+Orpheus: Efficient Distributed Machine Learning via System and Algorithm Co-design
+2
+Pengtao Xie, Jin Kyu Kim, Qirong Ho, Yaoliang Yu, Eric P. Xing
+
+Dynamic and Decentralized Global Analytics via Machine Learning
+0
+Hao Wang, Di Niu, Baochun Li
+
+Continuum: A Platform for Cost-Aware, Low-Latency Continual Learning
+1
+Huangshi Tian, Minchen Yu, Wei Wang
+
+Parameter Hub: a Rack-Scale Parameter Server for Distributed Deep Neural Network Training
+17
+Liang Luo, Jacob Nelson, Luis Ceze, Amar Phanishayee, Arvind Krishnamurthy
+
+Bolt-On Global Consistency for the Cloud
+1
+Zhe Wu, Edward Wijaya, Muhammed Uluyol, Harsha V. Madhyastha
+
+SDPaxos: Building Efficient Semi-Decentralized Geo-replicated State Machines
+1
+Hanyu Zhao, Quanlu Zhang, Zhi Yang, Ming Wu, Yafei Dai
+
+Early Scheduling in Parallel State Machine Replication
+6
+Eduardo Alchieri, Fernando Dotti, Fernando Pedone
+
+Uncertainty Propagation in Data Processing Systems
+3
+Ioannis Manousakis, Íñigo Goiri, Ricardo Bianchini, Sandro Rigo, Thu D. Nguyen
+
+Elasecutor: Elastic Executor Scheduling in Data Analytics Systems
+2
+Libin Liu, Hong Xu
+
+Stratus: cost-aware container scheduling in the public cloud
+7
+Andrew Chung, Jun Woo Park, Gregory R. Ganger
+
+Kairos: Preemptive Data Center Scheduling Without Runtime Estimates
+12
+Pamela Delgado, Diego Didona, Florin Dinu, Willy Zwaenepoel
+
+Overload Control for Scaling WeChat Microservices
+6
+Hao Zhou, Ming Chen, Qian Lin, Yong Wang, Xiaobin She, Sifan Liu, Rui Gu, Beng Chin Ooi, Junfeng Yang
+
+Mutant: Balancing Storage Cost and Latency in LSM-Tree Data Stores
+2
+Hobin Yoon, Juncheng Yang, Sveinn Fannar Kristjansson, Steinn E. Sigurdarson, Ymir Vigfusson, Ada Gavrilovska
+
+Wharf: Sharing Docker Images in a Distributed File System
+6
+Chao Zheng, Lukas Rupprecht, Vasily Tarasov, Douglas Thain, Mohamed Mohamed, Dimitrios Skourtis, Amit S. Warke, Dean Hildebrand
+
+Netco: Cache and I/O Management for Analytics over Disaggregated Stores
+2
+Virajith Jalaparti, Chris Douglas, Mainak Ghosh, Ashvin Agrawal, Avrilia Floratou, Srikanth Kandula, Ishai Menache, Joseph Seffi Naor, Sriram Rao
+
+Unikernels as Processes
+9
+Dan Williams, Ricardo Koller, Martin Lucina, Nikhil Prakash
+
+libVNF: Building Virtual Network Functions Made Easy
+1
+Priyanka Naik, Akash Kanase, Trishal Patel, Mythili Vutukuru
+
+RoGUE: RDMA over Generic Unconverged Ethernet
+4
+Yanfang Le, Brent Stephens, Arjun Singhvi, Aditya Akella, Michael M. Swift
+
+VIP: Virtual Performance-State for Efficient Power Management of Virtual Machines
+1
+Ki-Dong Kang, Mohammad Alian, Daehoon Kim, Jaehyuk Huh, Nam Sung Kim
+
+Henge: Intent-driven Multi-Tenant Stream Processing
+4
+Faria Kalim, Le Xu, Sharanya Bathey, Richa Meherwal, Indranil Gupta
+
+Sprocket: A Serverless Video Processing Framework
+15
+Lixiang Ao, Liz Izhikevich, Geoffrey M. Voelker, George Porter
+
+RIOS: Runtime Integrated Optimizer for Spark
+1
+Youfu Li, Mingda Li, Ling Ding, Matteo Interlandi
+
+ScootR: Scaling R Dataframes on Dataflow Systems
+1
+Andreas Kunft, Lukas Stadler, Daniele Bonetta, Cosmin Basca, Jens Meiners, Sebastian Breß, Tilmann Rabl, Juan Fumero, Volker Markl
+
+GraPU: Accelerate Streaming Graph Analysis through Preprocessing Buffered Updates
+3
+Feng Sheng, Qiang Cao, Haoran Cai, Jie Yao, Changsheng Xie
+
+DScope: Detecting Real-World Data Corruption Hang Bugs in Cloud Server Systems
+1
+Ting Dai, Jingzhu He, Xiaohui Gu, Shan Lu, Peipei Wang
+
+Weighted Sampling of Execution Traces: Capturing More Needles and Less Hay
+0
+Pedro Las-Casas, Jonathan Mace, Dorgival Guedes, Rodrigo Fonseca
+
+Debugging Distributed Systems with Why-Across-Time Provenance
+4
+Michael Whittaker, Cristina Teodoropol, Peter Alvaro, Joseph M. Hellerstein
+
+The Elasticity and Plasticity in Semi-Containerized Co-locating Cloud Workload: a View from Alibaba Trace
+6
+Qixiao Liu, Zhibin Yu
+
+I Heard It through the Firewall: Exploiting Cloud Management Services as an Information Leakage Channel
+0
+Hyunwook Baek, Eric Eide, Robert Ricci, Jacobus Van der Merwe
+
+DC-DRF: Adaptive Multi-Resource Sharing at Public Cloud Scale
+2
+Ian A. Kash, Greg O'Shea, Stavros Volos
+
+Fast and Accurate Load Balancing for Geo-Distributed Storage Systems
+3
+Kirill Bogdanov, Waleed Reda, Gerald Q. Maguire Jr., Dejan Kostić, Marco Canini
+
+IONN: Incremental Offloading of Neural Network Computations from Mobile Devices to Edge Servers
+9
+Hyuk-Jin Jeong, Hyeon-Jae Lee, Chang Hyun Shin, Soo-Mook Moon
+
+Multi-Query Optimization in Wide-Area Streaming Analytics
+8
+Albert Jonathan, Abhishek Chandra, Jon Weissman
+
+ApproxJoin: Approximate Distributed Joins
+3
+Do Le Quoc, Istemi Ekin Akkus, Pramod Bhatotia, Spyros Blanas, Ruichuan Chen, Christof Fetzer, Thorsten Strufe
+
+Pay One, Get Hundreds for Free: Reducing Cloud Costs through Shared Query Execution
+0
+Renato Marroquín, Ingo Müller, Darko Makreshanski, Gustavo Alonso
+
+Cloud Index Tracking: Enabling Predictable Costs in Cloud Spot Markets
+3
+Supreeth Shastri, David Irwin
+
+Cascade Mapping: Optimizing Memory Efficiency for Flash-based Key-value Caching
+3
+Kefei Wang, Feng Chen
+
+SifrDB: A Unified Solution for Write-Optimized Key-Value Stores in Large Datacenter
+4
+Fei Mei, Qiang Cao, Hong Jiang, Jingjun Li
+
+An Efficient Memory-Mapped Key-Value Store for Flash Storage
+3
+Anastasios Papagiannis, Giorgos Saloustros, Pilar González-Férez, Angelos Bilas
+
