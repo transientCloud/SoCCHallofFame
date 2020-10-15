@@ -1,0 +1,104 @@
+Gosig: A Scalable and High-Performance Byzantine Consensus System for Consortium Blockchains on Wide Area Network
+Peilun Li, Guosai Wang, Xiaoqi Chen, Fan Long, Wei Xu
+
+T-Lease: A Trusted Lease Primitive for Distributed Systems
+Bohdan Trach, Rasha Faqeh, Oleksii Oleksenko, Wojciech Ozga, Pramod Bhatotia, Christof Fetzer
+
+Leveraging Application Classes to Save Power in Highly-Utilized Data Centers
+Kostis Kaffes, Dragos Sbirlea, Yiyan Lin, David Lo, Christos Kozyrakis
+
+Particle: Ephemeral Endpoints for Serverless Networking
+Shelby Thomas, Lixiang Ao, Geoffrey M. Voelker, George Porter
+
+MetalMind: A Programming Framework for Serverless Computing
+Wen Zhang, Vivian Fang, Aurojit Panda, Scott Shenker
+
+Making Edge-Computing Resilient
+Yotam Harchol, Aisha Mushtaq, Vivian Fang, James McCauley, Aurojit Panda, Scott Shenker
+
+Concury: A Fast and Light-weight Software Cloud Load Balancer
+Shouqian Shi, Ye Yu, Minghao Xie, Xin Li, Xiaozhou Li, Ying Zhang, Chen Qian
+
+Characterizing Serverless Platforms with ServerlessBench
+Tianyi Yu, Qingyuan Liu, Dong Du, Yubin Xia, Binyu Zang, Ziqian Lu, Pingchao Yang, Chenggang Qin, Haibo Chen
+
+PaGraph: Scaling GNN Training on Large Graphs via Computation-aware Caching and Partitioning
+Zhiqi Lin, Cheng Li, Youshan Miao, Yunxin Liu, Yinlong Xu
+
+Vessels: Efficient and Scalable Deep Learning Prediction on Trusted Processors
+Kyungtae Kim, Chung Hwan Kim, Junghwan Rhee, Xiao Yu, Haifeng Chen, Dave Tian, Byoungyoung Lee
+
+Shrec: Bandwidth-Efficient Transaction Relay in High-Throughput Blockchain Systems
+Yilin Han, Chenxing Li, Peilun Li, Ming Wu, Dong Zhou, Fan Long
+
+GSLICE: Controlled Spatial Sharing of GPUs for a Scalable Inference Platform
+Aditya Dhakal, Sameer G Kulkarni, K. K. Ramakrishnan
+
+Janus: Latency-Aware Provisioning and Scaling for Prediction Serving Pipelines
+Daniel Crankshaw, Gur-Eyal Sela, Xiangxi Mo, Corey Zumar, Ion Stoica, Joseph Gonzalez, Alexey Tumanov
+
+LADS: A High-Performance Framework for Serverless Parallel Computing
+Benjamin Carver, Jingyuan Zhang, Ao Wang, Ali Anwar, Panruo Wu, Yue Cheng
+
+Serverless Linear Algebra
+Vaishaal Shankar, Karl Krauth, Kailas Vodrahalli, Qifan Pu, Ion Stoica, Ben Recht, Jonathan Ragan-Kelley, Eric Jonas, Shivaram Venkataraman
+
+HangFix: Automatically Fixing Software Hang Bugs for Production Cloud Systems
+Jingzhu He, Ting Dai, Xiaohui Gu, Guoliang Jin
+
+ByteSeries : An In-Memory Database for Large-Scale Monitoring Systems
+Xuanhua Shi, Zezhao Feng, Kaixi Li, Yongluan Zhou, Hai Jin, Yan Jiang, Bingsheng He, Zhijun Ling, Xin Li
+
+High availability in cheap distributed key value storage
+Thomas Kim, Daniel L.-K. Wong, Gregory R. Ganger, Michael Kaminsky, David G. Andersen
+
+BAOVERLAY: A Block-Accessible Overlay File System for Fast and Efficient Container Storage
+Yu Sun, Jiaxin Lei, Hui Lu, Seunghee Shin
+
+Influence-Based Provenance for Dataflow Applications with Taint Propagation
+Jason Teoh, Muhammad Ali Gulzar, Miryung Kim
+
+A User-level Toolkit for Storage I/O Isolation on Multitenant Hosts
+Giorgos Kappes, Stergios Anastasiadis
+
+Challenges and Solutions for Fast Remote Persistent Memory Access
+Anuj Kalia, David G. Andersen, Michael Kaminsky
+
+SNF: Serverless Network Functions
+Arjun Singhvi, Junaid Khalid, Aditya Akella, Sujata Banerjee
+
+Network-accelerated Distributed Machine Learning for Multi-Tenant Settings
+Raajay Viswanathan, Arjun Balasubramanian, Aditya Akella
+
+Photons: Lambdas on a diet
+Vojislav Dukic, Rodrigo Bruno, Ankit Singla, Gustavo Alonso
+
+Peafowl: In-application CPU Scheduling to Reduce Power Consumption ofIn-memory Key-Value Stores
+Esmail Asyabi, Azer Bestavros, Erfan Sharafzadeh, Timothy Zhu
+
+Semi-Dynamic Load Balancing: Efficient Distributed Learning in Non-Dedicated Environments
+Chen Chen, Qizhen Weng, Wei Wang, Baochun Li, Bo Li
+
+Improving the Accuracy, Adaptability, and Interpretability of SSD Failure Prediction Models
+Chandranil Chakraborttii, Heiner Litz
+
+Specializing the network for scatter-gather workloads
+Catalina Alvarez, Zhenhao He, Gustavo Alonso, Ankit Singla
+
+Baechi: Fast Device Placement of Machine Learning Graphs
+Beomyeol Jeon, Linda Cai, Pallavi Srivastava, Jintao Jiang, Xiaolan Ke, Yitao Meng, Cong Xie, Indranil Gupta
+
+Automatically Detecting Risky Scripts in Infrastructure Code
+Ting Dai, Alexei Karve, Grzegorz Koper, Sai Zeng
+
+Bypassing the Load Balancer Without Regrets
+Marios Kogias, Rishabh Iyer, Edouard Bugnion
+
+Finding the Right Cloud Configuration for Analytics Clusters
+Muhammad Bilal, Marco Canini, Rodrigo Rodrigues
+
+Sequoia: Enabling Quality-of-Service in Serverless Computing
+Ali Tariq, Austin Pahl, Sharat Nimmagadda, Eric Rozner, Siddharth Lanka
+
+Elastic Parameter Server Load Distribution in Deep Learning Clusters
+Yangrui Chen, Yanghua Peng, Yixin Bao, Chuan Wu, Yibo Zhu, Chuanxiong Guo
