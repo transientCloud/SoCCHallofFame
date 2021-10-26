@@ -1,229 +1,233 @@
 Benchmarking cloud serving systems with YCSB
-2423
+3549
 
 Apache Hadoop YARN: yet another resource negotiator
-1591
+2326
 
 Heterogeneity and dynamicity of clouds at scale: Google trace analysis
-697
-
-Virtual machine power metering and provisioning
-618
+1055
 
 CloudScale: elastic resource scaling for multi-tenant cloud systems
-577
+735
+
+Virtual machine power metering and provisioning
+731
 
 Characterizing cloud computing hardware reliability
-476
+607
 
 RACS: a case for cloud storage diversity
-476
-
-Incoop: MapReduce for incremental computations
-354
-
-Nephele/PACTs: a programming model and execution framework for web-scale analytical processing
-335
-
-Towards automatic optimization of MapReduce programs
-326
+585
 
 Tachyon: Reliable, Memory Speed Storage for Cluster Computing Frameworks
-308
+415
 
-G-Store: a scalable data store for transactional multi key access in the cloud
-276
+Incoop: MapReduce for incremental computations
+415
 
-No one (cluster) size fits all: automatic cluster sizing for data-intensive analytics
-257
+Nephele/PACTs: a programming model and execution framework for web-scale analytical processing
+382
 
-Robust and flexible power-proportional storage
-247
-
-CloudNaaS: a cloud networking platform for enterprise applications
-247
-
-Characterizing, modeling, and generating workload spikes for stateful services
-213
-
-Cuanta: quantifying effects of shared on-chip resource interference for consolidated virtual machines
-213
-
-Scale-up vs scale-out for Hadoop: time to rethink?
-183
-
-YCSB++: benchmarking and performance debugging advanced features in scalable table stores
-181
-
-Skew-resistant parallel processing of feature-extracting scientific user-defined functions
-179
-
-Modeling and synthesizing task placement constraints in Google compute clusters
-177
-
-Chronos: predictable low latency for data center applications
-172
-
-Stateful bulk processing for incremental analytics
-170
-
-Query optimization for massively parallel data processing
-167
-
-More for your money: exploiting performance heterogeneity in public clouds
-160
-
-Tales of the Tail: Hardware, OS, and Application-level Sources of Tail Latency
-156
-
-Automated software testing as a service
-152
-
-Comet: batched stream processing for data intensive distributed computing
-145
-
-Google fusion tables: data management, integration and collaboration in the cloud
-145
+Towards automatic optimization of MapReduce programs
+370
 
 Occupy the cloud: distributed computing for the 99%
-141
+350
+
+G-Store: a scalable data store for transactional multi key access in the cloud
+329
+
+No one (cluster) size fits all: automatic cluster sizing for data-intensive analytics
+326
+
+Robust and flexible power-proportional storage
+289
+
+CloudNaaS: a cloud networking platform for enterprise applications
+289
+
+Characterizing, modeling, and generating workload spikes for stateful services
+257
+
+Cuanta: quantifying effects of shared on-chip resource interference for consolidated virtual machines
+265
+
+Tales of the Tail: Hardware, OS, and Application-level Sources of Tail Latency
+247
+
+YCSB++: benchmarking and performance debugging advanced features in scalable table stores
+235
+
+Modeling and synthesizing task placement constraints in Google compute clusters
+232
+
+Chronos: predictable low latency for data center applications
+229
+
+Scale-up vs scale-out for Hadoop: time to rethink?
+228
+
+Skew-resistant parallel processing of feature-extracting scientific user-defined functions
+209
+
+Query optimization for massively parallel data processing
+199
+
+Stateful bulk processing for incremental analytics
+198
+
+More for your money: exploiting performance heterogeneity in public clouds
+198
+
+Automated software testing as a service
+196
 
 A self-organized, fault-tolerant and scalable replication scheme for cloud storage
-140
-
-Bridging the tenant-provider gap in cloud services
-131
-
-Making cloud intermediate data fault-tolerant
-130
-
-An operating system for multicore and clouds: mechanisms and implementation
-129
-
-Small-world datacenters
-125
+192
 
 PrIter: a distributed framework for prioritized iterative computations
-125
-
-Orleans: cloud computing for everyone
-121
-
-Silverline: toward data confidentiality in storage-intensive cloud applications
-118
-
-Trojan data layouts: right shoes for a running elephant
-116
-
-Reservation-based Scheduling: If You're Late Don't Blame Us!
-113
-
-Sailfish: a framework for large scale data processing
-107
-
-Orbe: scalable causal consistency using dependency matrices and physical clocks
-107
+187
 
 GentleRain: Cheap and Scalable Causal Consistency with Physical Clocks
-107
+187
 
-Hierarchical scheduling for diverse datacenter workloads
-103
+Comet: batched stream processing for data intensive distributed computing
+174
 
-Logic and lattices for distributed programming
-101
+Google fusion tables: data management, integration and collaboration in the cloud
+171
 
-Pesto: online storage performance management in virtualized datacenters
-96
-
-Scheduling jobs across geo-distributed datacenters
-96
-
-Cake: enabling high-level SLOs on shared storage systems
-95
-
-Improving large graph processing on partitioned graphs in the cloud
-93
-
-Themis: an I/O-efficient MapReduce
-90
-
-Balancing reducer skew in MapReduce workloads using progressive sampling
-90
-
-Automating model search for large scale machine learning
-89
-
-Declarative automated cloud resource orchestration
-88
-
-GraM: scaling graph computation to the trillions
-88
-
-Pico replication: a high availability framework for middleboxes
-87
-
-Tarcil: reconciling scheduling speed and quality in large shared clusters
-87
-
-ActiveSLA: a profit-oriented admission control framework for database-as-a-service providers
-85
-
-What Bugs Live in the Cloud? A Study of 3000+ Issues in Cloud Systems
-85
-
-Lithium: virtual machine storage for the cloud
-84
-
-Managed communication and consistency for fast data-parallel iterative analytics
-83
-
-Wrangler: Predictable and Faster Jobs using Fewer Resources
-82
-
-Small cache, big effect: provable load balancing for randomly partitioned cluster services
-80
-
-Switching the optical divide: fundamental challenges for hybrid electrical/optical datacenter networks
-79
-
-The potential dangers of causal consistency and an explicit solution
-78
+Orleans: cloud computing for everyone
+165
 
 Why Does the Cloud Stop Computing?: Lessons from Hundreds of Service Outages
-77
+157
 
-Natjam: design and evaluation of eviction policies for supporting priorities and deadlines in mapreduce clusters
-75
+Reservation-based Scheduling: If You're Late Don't Blame Us!
+156
+
+Tarcil: reconciling scheduling speed and quality in large shared clusters
+152
+
+Orbe: scalable causal consistency using dependency matrices and physical clocks
+151
+
+Bridging the tenant-provider gap in cloud services
+150
+
+Making cloud intermediate data fault-tolerant
+148
+
+Small-world datacenters
+144
+
+Scheduling jobs across geo-distributed datacenters
+141
+
+Silverline: toward data confidentiality in storage-intensive cloud applications
+139
+
+Trojan data layouts: right shoes for a running elephant
+139
+
+Automating model search for large scale machine learning
+139
+
+Wrangler: Predictable and Faster Jobs using Fewer Resources
+139
+
+An operating system for multicore and clouds: mechanisms and implementation
+138
+
+Hierarchical scheduling for diverse datacenter workloads
+134
+
+GraM: scaling graph computation to the trillions
+132
+
+What Bugs Live in the Cloud? A Study of 3000+ Issues in Cloud Systems
+127
+
+Sailfish: a framework for large scale data processing
+125
+
+Logic and lattices for distributed programming
+123
+
+Cake: enabling high-level SLOs on shared storage systems
+121
+
+Pico replication: a high availability framework for middleboxes
+120
+
+Managed communication and consistency for fast data-parallel iterative analytics
+119
+
+Balancing reducer skew in MapReduce workloads using progressive sampling
+116
 
 Adaptive Stream Processing using Dynamic Batch Sizing
-75
+115
 
-To cloud or not to cloud?: musings on costs and viability
-74
+Pesto: online storage performance management in virtualized datacenters
+114
 
-Generalized resource allocation for the cloud
-71
+Themis: an I/O-efficient MapReduce
+114
+
+Small cache, big effect: provable load balancing for randomly partitioned cluster services
+109
+
+Improving large graph processing on partitioned graphs in the cloud
+109
 
 SpotOn: a batch computing service for the spot market
-71
+108
+
+Declarative automated cloud resource orchestration
+108
+
+The potential dangers of causal consistency and an explicit solution
+103
+
+ActiveSLA: a profit-oriented admission control framework for database-as-a-service providers
+101
 
 PriorityMeister: Tail Latency QoS for Shared Networked Storage
-70
+101
 
-Opportunistic flooding to improve TCP transmit performance in virtualized clouds
-68
+Switching the optical divide: fundamental challenges for hybrid electrical/optical datacenter networks
+95
 
-Scaling the mobile millennium system in the cloud
-67
+Lithium: virtual machine storage for the cloud
+94
 
-True elasticity in multi-tenant data-intensive compute clusters
-65
-
-Zeta: scheduling interactive services with partial execution
-63
+Natjam: design and evaluation of eviction policies for supporting priorities and deadlines in mapreduce clusters
+99
 
 Long-term SLOs for reclaimed cloud computing resources
+97
+
+To cloud or not to cloud?: musings on costs and viability
+92
+
+Generalized resource allocation for the cloud
+87
+
+Opportunistic flooding to improve TCP transmit performance in virtualized clouds
+79
+
+Scaling the mobile millennium system in the cloud
+79
+
+------------------------------------------------------------------
+the citation count for papers below is not updated after 2020
+------------------------------------------------------------------
+
+True elasticity in multi-tenant data-intensive compute clusters
+72
+
+Zeta: scheduling interactive services with partial execution
 63
 
 Defining future platform requirements for e-Science clouds
