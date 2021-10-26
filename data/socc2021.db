@@ -1,0 +1,137 @@
+George: Learning to Place Long-Lived Containers in Large Clusters with Operation Constraints
+Suyi Li, Luping Wang, Wei Wang, Yinghao Yu, Bo Li
+
+Llama: A Heterogeneous & Serverless Framework for Auto-Tuning Video Analytics Pipelines
+Francisco Romero, Mark Zhao, Neeraja Yadwadkar, Christos Kozyrakis
+
+Lorien: Efficient Deep Learning Workloads Delivery
+Cody Hao Yu, Xingjian Shi, Haichen Shen, Zhi Chen, Mu Li, Yida Wang
+
+Faa$T: A Transparent Auto-Scaling Cache for Serverless Applications
+Francisco Romero, Gohar Irfan Chaudhry, Inigo Goiri, Pragna Gopa, Paul Batum, Neeraja Yadwadkar, Rodrigo Fonseca, Christos Kozyrakis, Ricardo Bianchini
+
+Scaling Blockchains Using Pipelined Execution and Sparse Peers
+Parth Thakkar, Senthilnathan Natarajan
+
+Secure Namespaced Kernel Audit for Containers
+Soo Yee Lim, Bogdan Stelea, Xueyuan Han, Thomas Pasquier
+
+Cloud-Scale Runtime Verification of Serverless Applications
+Kalev Alpernas, Aurojit Panda, Leonid Ryzhyk, Mooly Sagiv
+
+CHRONUS: A Novel Deadline-aware Scheduler for Deep Learning Training Jobs
+Wei Gao, Zhisheng Ye, Peng Sun, Yonggang Wen, Tianwei Zhang
+
+ServerMore: Opportunistic Execution of Serverless Functions in the Cloud
+Amoghavarsha Suresh, Anshul Gandhi
+
+Version Reconciliation for Collaborative Databases
+Nalin Ranjan, Zechao Shang, Sanjay Krishnan, Aaron Elmore
+
+Atoll: A Scalable Low-Latency Serverless Platform
+Arjun Singhvi, Arjun Balasubramanian, Kevin Houck, Mohammed Danish Shaikh, Shivaram Venkataraman, Aditya Akella
+
+Speedo: Fast dispatch and orchestration of serverless workflows
+Nilanjan Daw, Umesh Bellur, Purushottam Kulkarni
+
+Building Reliable Cloud Services Using Coyote Actors
+Pantazis Deligiannis, Narayanan Ganapathy, Akash Lal, Shaz Qadeer
+
+Iter8: Online Experimentation in the Cloud
+Mert Toslali, Srinivasan Parthasarathy, Fabio Oliveira, Hai Huang, Ayse Coskun
+
+Parslo: A Gradient Descent-based Approach for Near-optimal Partial SLO Allotment in Microservices
+Amirhossein Mirhosseini, Sameh Elnikety, Thomas Wenisch
+
+3MileBeach: A Tracer with Teeth
+Jun Zhang, Robert Ferydouni, Aldrin Montana, Daniel Bittman, Peter Alvaro
+
+Morphling: Fast, Near-Optimal Auto-Configuration for Cloud-Native Model Serving
+Luping Wang, Lingyun Yang, Yinghao Yu, Wei Wang, Bo Li, Xianchao Sun, Jian He, Liping Zhang
+
+Lasagna: Accelerating Secure Deep Learning Inference in SGX-enabled Edge Cloud
+Yuepeng Li, Deze Zeng, Lin Gu, Quan Chen, Song Guo, Albert Zomaya, Minyi Guo
+
+Elastic Hyperparameter Tuning on the Cloud
+Lisa Dunlap, Kirthevasan Kandasamy, Ujval Misra, Richard Liaw, Joesph Gonzalez, Ion Stoica, Michael Jordan
+
+Siren: Byzantine-robust Federated Learning via Proactive Alarming
+Hanxi Guo, Hao Wang, Tao Song, Yang Hua, Zhangcheng Lv, Xiulang Jin, Zhengui Xue, Ruhui Ma, Haibing Guan
+
+Fast and Accurate Optimizer for Query Processing over Knowledge Graphs
+Jingqi Wu, Rong Chen, Yubin Xia
+
+Kraken : Adaptive Container Provisioning for Deploying Dynamic DAG applications in Serverless platforms
+Vivek Bhasi, Jashwant Raj Gunasekaran, Prashanth Thinakaran, Cyan Subhra Mishra, Mahmut Taylan Kandemir, Chita Das
+
+Scrooge: A Cost-Effective Deep Learning Inference System
+Yitao Hu, Rajrup Ghosh, Ramesh Govindan
+
+tprof: Performance profiling via structural aggregation and automated analysis of distributed systems traces
+Lexiang Huang, Timothy Zhu
+
+Towards Reliable AI for Source Code Understanding
+Sahil Suneja, Yunhui Zheng, Yufan Zhuang, Jim Laredo, Alessandro Morari
+
+Clamor: Extending Functional Cluster Computing Frameworks with Fine-Grained Remote Memory Access
+Pratiksha Thaker, Hudson Ayers, Deepti Raghavan, Ning Niu, Philip Levis, Matei Zaharia
+
+Mind the Gap: Broken Promises of CPU Reservations in Containerized Multi-tenant Clouds
+Li Liu, Haoliang Wang, An Wang, Mengbai Xiao, Yue Cheng, Songqing Chen
+
+Citadel: Protecting Data Privacy and Model Confidentiality for Collaborative Learning
+Chengliang Zhang, Junzhe Xia, Baichen Yang, Huancheng Puyang, Wei Wang, Ruichuan Chen, Istemi Ekin Akkus, Paarijaat Aditya, Feng Yan
+
+SHOWAR: Right-Sizing And Efficient Scheduling of Microservices
+Ata Fatahi, George Kesidis
+
+Automating instrumentation choices for performance problems in distributed applications with VAIF
+Mert Toslali, Emre Ates, Alex Ellis, Zhaoqi Zhang, Darby Huye, Lan Liu, Samantha Puterman, Ayse Coskun, Raja Sambasivan
+
+Sayer: Using Implicit Feedback to Optimize System Policies
+Mathias Lecuyer, Sang Hoon Kim, Mihir Nanavati, Junchen Jiang, Siddhartha Sen, Aleksandrs Slivkins, Amit Sharma
+
+On Merits and Viability of Multi-Cloud Serverless
+Ata Fatahi, George Kesidis, Carlee Joe-Wong, Mohammad Shahrad
+
+Characterizing Microservice Dependency and Performance: Alibaba Trace Analysis
+Shutian Luo, Huanle Xu, Chengzhi Lu, Kejiang Ye, Guoyao Xu, Liping Zhang, Yu Ding, Jian He, Chengzhong Xu
+
+Portkey: Adaptive Key-Value Placement over Dynamic Edge Networks
+Joseph Noor, Mani Srivastava, Ravi Netravali
+
+Service-Level Fault Injection Testing
+Christopher Meiklejohn, Andrea Estrada, Yiwen Song, Heather Miller, Rohan Padhye
+
+Provisioning Differentiated Last-Level Cache Allocations to VMs in Public Clouds
+Mohammad Shahrad, Sameh Elnikety, Ricardo Bianchini
+
+Good Things Come to Those Who Wait: Optimizing Job Waiting in the Cloud
+Pradeep Ambati, Noman Bashir, David Irwin, Prashant Shenoy
+
+OneEdge: An Efficient Control Plane for Geo-Distributed Infrastructures
+Enrique Saurez, Harshit Gupta, Alexandros Daglis, Umakishore Ramachandran
+
+Enabling Sustainable Clouds: The Case for Virtualizing the Energy System
+Noman Bashir, Tian Guo, Mohammad Hajiesmaili, David Irwin, Prashant Shenoy, Ramesh Sitaraman, Abel Souza, Adam Wierman
+
+Trisk: Task-Centric Data Stream Reconfiguration
+Yancan Mao, Yuan Huang, Runxin Tian, Xin Wang, Richard T. B. Ma
+
+Falkirk Wheel: Rollback Recovery for Dataflow Systems
+Ionel Gog, Michael Isard, Martin Abadi
+
+Parallax: Hybrid Key-Value Placement in LSM-based Key-Value Stores
+Giorgos Xanthakis, Giorgos Saloustros, Nikos Batsaras, Anastasios Papagiannis, Angelos Bila
+
+Tell me when you are sleepy and what may wake you up!
+Djob Mvondo, Antonio Barbalace, Alain Tchana, Gilles Muller
+
+Mu: An Efficient, Fair and Responsive Serverless Framework for Resource-Constrained Edge Clouds
+Viyom Mittal, Shixiong Qi, Ratnadeep Bhattacharya, Xiaosu Lyu, Junfeng Li, Sameer Kulkarni, Dan Li, Jinho Hwang, K. K. Ramakrishnan, Timothy Wood
+
+Latency-Aware Dynamic Server and Cooling Capacity Provisioner for Data Centers
+Anuroop Desu, Udaya Puvvadi, Tyler Stachecki, Sagar Vishwakarma, Sadegh Khalili, Kanad Ghose, Bahgat G Sammakia
+
+OptDebug: Fault-Inducing Operation Isolation for Dataflow Applications
+Muhammad Ali Gulzar, Miryung Kim
